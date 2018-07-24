@@ -1,0 +1,3 @@
+CACHEDIR=/root/.cache/matplotlib
+Using fontManager instance from /root/.cache/matplotlib/fontList.json
+backend TkAgg version unknown
