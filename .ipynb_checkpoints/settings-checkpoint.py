@@ -69,9 +69,11 @@ FORMAT_DATETIME = "%Y%m%d%H%M%S"
 
 
 if 'Darwin' in platform.system():
-    locale.setlocale(locale.LC_ALL, 'ko_KR.UTF-8')
+    locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 elif 'Windows' in platform.system():
-    locale.setlocale(locale.LC_ALL, '')
+    locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+else:
+    locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 
 # Settings on Logging

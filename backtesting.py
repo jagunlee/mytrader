@@ -57,12 +57,12 @@ if __name__ == '__main__':
     cerebro.addstrategy(TestStrategy)
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
     data = bt.feeds.GenericCSVData(
-        dataname='data.csv',
+        dataname='out.csv',
 
-        #fromdate=datetime.datetime(2018, 6, 30),
+        fromdate=datetime.datetime(2017,11,24,23,0,0),
+        todate=datetime.datetime(2017,12,16,10,0,0),
         timeframe=bt.TimeFrame.Minutes, compression=240,
         nullvalue=0.0,
-
         dtformat=('%Y-%m-%d %H:%M:%S'),
         datetime=0,
         high=1,

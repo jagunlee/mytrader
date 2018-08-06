@@ -15,7 +15,7 @@ import logging
 import numpy as np
 import settings
 from environment import Environment
-from agent import Agent
+from agent_custom import Agent
 from policy_network import PolicyNetwork
 import math
 
@@ -29,7 +29,7 @@ class TestStrategy(bt.Strategy):
 
     def __init__(self):
         stock_code='BTCUSDT'
-        model_ver='20180724051736'
+        model_ver='20180726035010'
         self.dataclose = self.datas[0].close
         log_dir = os.path.join(settings.BASE_DIR, 'logs/%s' % stock_code)
         timestr = settings.get_time_str()
@@ -107,12 +107,12 @@ class TestStrategy(bt.Strategy):
         self.log('Close, %.2f' % self.dataclose[0])
         self.environment.observe()
         if len(self.training_data) > self.training_data_idx + 1:
-            #self.training_data_idx += 1
+            self.training_data_idx += 1
             self.sample = self.training_data.iloc[self.training_data_idx].tolist()
         next_sample= self.sample
         if next_sample is None:
             return
-        print(self.sample)
+        #print(self.sample)
         action, confidence, exploration = self.agent.decide_action(
                     self.policy_network, self.sample, self.epsilon)
         #print(action,confidence,exploration)
@@ -121,23 +121,21 @@ class TestStrategy(bt.Strategy):
         else:
             next_price=self.dataclose[1]
         #next_price=self.dataclose[1]
-        if  self.agent.validate_action(action,confidence):
-            
-            if action==Agent.ACTION_SELL:
-                #self.log('SELL CREATE, %.2f' % self.dataclose[0])
-                trading_unit = self.num_stocks*math.exp(float(confidence)-1)
-                invest_amount = next_price * (1 - (self.TRADING_TAX + self.TRADING_CHARGE)) * trading_unit
-                self.num_stocks -= trading_unit  
-                self.sell(size=trading_unit)
-                self.log('sell')
+        if action==Agent.ACTION_SELL:
+            #self.log('SELL CREATE, %.2f' % self.dataclose[0])
+            trading_unit = self.num_stocks*math.exp(float(confidence)-1)
+            invest_amount = next_price * (1 - (self.TRADING_TAX + self.TRADING_CHARGE)) * trading_unit
+            self.num_stocks -= trading_unit  
+            self.sell(size=trading_unit)
+            self.log('sell')
 
-            elif action==Agent.ACTION_BUY:
-                #self.log('BUY CREATE, %.2f' % self.dataclose[0])
-                trading_unit = self.broker.getcash()*math.exp(confidence-1)/(float(next_price)*(1+self.TRADING_CHARGE))  
-                self.num_stocks += trading_unit
-                self.buy(size=trading_unit)
-                self.log('buy')
-        self.log('value : %.2f , cash : %.2f , confidence : %.2f , stock : %.2f' % (self.broker.getvalue(),self.broker.getcash(),confidence,self.num_stocks))
+        elif action==Agent.ACTION_BUY:
+            #self.log('BUY CREATE, %.2f' % self.dataclose[0])
+            trading_unit = self.broker.getcash()*math.exp(confidence-1)/(float(next_price)*(1+self.TRADING_CHARGE))  
+            self.num_stocks += trading_unit
+            self.buy(size=trading_unit)
+            self.log('buy')
+        self.log('value : %.2f , cash : %.2f , action : %.2f , confidence : %.2f , stock : %.2f' % (self.broker.getvalue(),self.broker.getcash(),action, confidence,self.num_stocks))
             
 if __name__ == '__main__':
 
@@ -169,4 +167,4 @@ if __name__ == '__main__':
     cerebro.run()
 
     print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    cerebro.plot()[0][0].savefig('plot.png')
+    cerebro.plot()[0][0].savefig('plot2.png')

@@ -1,0 +1,15 @@
+LR: 0.1, DF: 0, DRT: 0.2
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 001/100]	Epsilon:0.5000	#Expl.:2172/4299	#Buy:1021	#Sell:1261	#Hold:2017	#Stocks:  0.000000	PV:   2699.51	POS:1	NEG:4292	Loss:  0.050426
+[Epoch 002/100]	Epsilon:0.4949	#Expl.:2142/4299	#Buy:863	#Sell:1081	#Hold:2355	#Stocks:  0.000000	PV:   2340.63	POS:0	NEG:4293	Loss:  0.049000
+[Epoch 003/100]	Epsilon:0.4899	#Expl.:2096/4299	#Buy:1135	#Sell:1109	#Hold:2055	#Stocks:  0.218408	PV:   2384.53	POS:0	NEG:4293	Loss:  0.052459
+[Epoch 004/100]	Epsilon:0.4848	#Expl.:2075/4299	#Buy:1688	#Sell:1091	#Hold:1520	#Stocks:  0.126401	PV:   1221.49	POS:0	NEG:4290	Loss:  0.053552
+[Epoch 005/100]	Epsilon:0.4798	#Expl.:2104/4299	#Buy:1811	#Sell:1109	#Hold:1379	#Stocks:  0.000000	PV:   3682.14	POS:4	NEG:4288	Loss:  0.051519
+[Epoch 006/100]	Epsilon:0.4747	#Expl.:2140/4299	#Buy:1048	#Sell:1242	#Hold:2009	#Stocks:  0.000000	PV:   3107.76	POS:2	NEG:4291	Loss:  0.049109
+[Epoch 007/100]	Epsilon:0.4697	#Expl.:1994/4299	#Buy:1001	#Sell:1243	#Hold:2055	#Stocks:  0.000000	PV:   2253.52	POS:1	NEG:4291	Loss:  0.049938
+[Epoch 008/100]	Epsilon:0.4646	#Expl.:1997/4299	#Buy:1101	#Sell:1312	#Hold:1886	#Stocks:  0.229819	PV:   2713.53	POS:0	NEG:4294	Loss:  0.049581
+[Epoch 009/100]	Epsilon:0.4596	#Expl.:1955/4299	#Buy:1043	#Sell:1344	#Hold:1912	#Stocks:  0.000005	PV:   3258.02	POS:1	NEG:4293	Loss:  0.049834
+[Epoch 010/100]	Epsilon:0.4545	#Expl.:1977/4299	#Buy:1029	#Sell:1958	#Hold:1312	#Stocks:  0.116027	PV:   2852.42	POS:0	NEG:4294	Loss:  0.050887
+[Epoch 011/100]	Epsilon:0.4495	#Expl.:1952/4299	#Buy:859	#Sell:2179	#Hold:1261	#Stocks:  0.043532	PV:   2410.14	POS:0	NEG:4293	Loss:  0.048845
+[Epoch 012/100]	Epsilon:0.4444	#Expl.:1910/4299	#Buy:923	#Sell:1595	#Hold:1781	#Stocks:  0.595062	PV:   3802.49	POS:1	NEG:4293	Loss:  0.050680

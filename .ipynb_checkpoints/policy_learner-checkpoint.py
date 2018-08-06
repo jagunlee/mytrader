@@ -4,7 +4,7 @@ import logging
 import numpy as np
 import settings
 from environment import Environment
-from agent import Agent
+from agent_custom import Agent
 from policy_network import PolicyNetwork
 from visualizer import Visualizer
 
@@ -103,7 +103,7 @@ class PolicyLearner:
                 action, confidence, exploration = self.agent.decide_action(
                     self.policy_network, self.sample, epsilon)
 
-                
+                #print(confidence)
                 immediate_reward, delayed_reward = self.agent.act(action, confidence)
 
                 #print (self.agent.portfolio_value)

@@ -30,7 +30,7 @@ def load_chart_data(filename):
     df=df.reindex(index=df.index[::-1])
     df.head()
     df['o_t']=df.index
-
+    df['o_t']=pd.to_datetime(df['o_t'],unit='ms')
     return df
 
 def preprocess(chart_data):
@@ -62,7 +62,6 @@ def build_training_data(prep_data):
         training_data['volume'][:-1]\
             .replace(to_replace=0, method='ffill') \
             .replace(to_replace=0, method='bfill').values
-    
     training_data['ema12'] = talib.EMA(training_data['close'].values, 12)
     training_data['ema26'] = talib.EMA(training_data['close'].values, 26)
     upper, middle, lower = talib.BBANDS(training_data['close'].values, timeperiod=20, nbdevup=2, nbdevdn=2, matype=0)
@@ -87,7 +86,7 @@ def build_training_data(prep_data):
         training_data['volume_ma%d_ratio' % window] = \
             (training_data['volume'] - training_data['volume_ma%d' % window]) / \
             training_data['volume_ma%d' % window]
-    
+    training_data.index=training_data['o_t']
     return training_data
 
 

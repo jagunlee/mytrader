@@ -1,0 +1,39 @@
+LR: 0.1, DF: 0, DRT: 0.2
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 001/100]	Epsilon:0.5000	#Expl.:2132/4299	#Buy:2686	#Sell:772	#Hold:841	#Stocks:  0.288109	PV:   1841.04	POS:4	NEG:4285	Loss:  0.045458
+[Epoch 002/100]	Epsilon:0.4949	#Expl.:2114/4299	#Buy:2624	#Sell:845	#Hold:830	#Stocks:  0.322537	PV:   2061.04	POS:4	NEG:4285	Loss:  0.046194
+[Epoch 003/100]	Epsilon:0.4899	#Expl.:2124/4299	#Buy:2653	#Sell:851	#Hold:795	#Stocks:  0.278271	PV:   1778.17	POS:2	NEG:4288	Loss:  0.045539
+[Epoch 004/100]	Epsilon:0.4848	#Expl.:2073/4299	#Buy:2718	#Sell:818	#Hold:763	#Stocks:  0.137705	PV:   1806.97	POS:2	NEG:4288	Loss:  0.044228
+[Epoch 005/100]	Epsilon:0.4798	#Expl.:2087/4299	#Buy:2251	#Sell:1130	#Hold:918	#Stocks:  0.138181	PV:   1646.86	POS:2	NEG:4288	Loss:  0.049298
+[Epoch 006/100]	Epsilon:0.4747	#Expl.:2043/4299	#Buy:2530	#Sell:792	#Hold:977	#Stocks:  0.000000	PV:   1898.62	POS:2	NEG:4288	Loss:  0.046760
+[Epoch 007/100]	Epsilon:0.4697	#Expl.:1979/4299	#Buy:2802	#Sell:749	#Hold:748	#Stocks:  0.370427	PV:   2367.05	POS:2	NEG:4289	Loss:  0.042849
+[Epoch 008/100]	Epsilon:0.4646	#Expl.:1984/4299	#Buy:2852	#Sell:745	#Hold:702	#Stocks:  0.310597	PV:   1984.73	POS:1	NEG:4291	Loss:  0.042123
+[Epoch 009/100]	Epsilon:0.4596	#Expl.:2013/4299	#Buy:2507	#Sell:1025	#Hold:767	#Stocks:  0.000000	PV:   1569.34	POS:1	NEG:4290	Loss:  0.046834
+[Epoch 010/100]	Epsilon:0.4545	#Expl.:1891/4299	#Buy:1157	#Sell:1617	#Hold:1525	#Stocks:  0.189376	PV:   3209.84	POS:3	NEG:4289	Loss:  0.046028
+[Epoch 011/100]	Epsilon:0.4495	#Expl.:1956/4299	#Buy:927	#Sell:1658	#Hold:1714	#Stocks:  0.000000	PV:   3270.45	POS:1	NEG:4293	Loss:  0.044864
+[Epoch 012/100]	Epsilon:0.4444	#Expl.:1935/4299	#Buy:861	#Sell:1757	#Hold:1681	#Stocks:  0.329106	PV:   2670.21	POS:0	NEG:4294	Loss:  0.046192
+[Epoch 013/100]	Epsilon:0.4394	#Expl.:1861/4299	#Buy:1354	#Sell:1655	#Hold:1290	#Stocks:  0.000000	PV:   1594.75	POS:0	NEG:4291	Loss:  0.049977
+[Epoch 014/100]	Epsilon:0.4343	#Expl.:1854/4299	#Buy:1040	#Sell:2055	#Hold:1204	#Stocks:  0.000000	PV:   4165.25	POS:1	NEG:4294	Loss:  0.048354
+[Epoch 015/100]	Epsilon:0.4293	#Expl.:1829/4299	#Buy:1131	#Sell:1696	#Hold:1472	#Stocks:  0.203013	PV:   2620.17	POS:0	NEG:4293	Loss:  0.047493
+[Epoch 016/100]	Epsilon:0.4242	#Expl.:1809/4299	#Buy:1257	#Sell:1590	#Hold:1452	#Stocks:  0.101529	PV:   2843.09	POS:2	NEG:4290	Loss:  0.047868
+[Epoch 017/100]	Epsilon:0.4192	#Expl.:1857/4299	#Buy:1033	#Sell:1536	#Hold:1730	#Stocks:  0.000000	PV:   2082.69	POS:0	NEG:4293	Loss:  0.046001
+[Epoch 018/100]	Epsilon:0.4141	#Expl.:1738/4299	#Buy:1524	#Sell:1690	#Hold:1085	#Stocks:  0.081453	PV:   1613.34	POS:1	NEG:4290	Loss:  0.048277
+[Epoch 019/100]	Epsilon:0.4091	#Expl.:1727/4299	#Buy:1409	#Sell:1815	#Hold:1075	#Stocks:  0.000000	PV:   2194.74	POS:0	NEG:4293	Loss:  0.045810
+[Epoch 020/100]	Epsilon:0.4040	#Expl.:1779/4299	#Buy:934	#Sell:1977	#Hold:1388	#Stocks:  0.000000	PV:   2321.34	POS:1	NEG:4291	Loss:  0.045496
+[Epoch 021/100]	Epsilon:0.3990	#Expl.:1638/4299	#Buy:1117	#Sell:2173	#Hold:1009	#Stocks:  0.000000	PV:   3030.97	POS:1	NEG:4293	Loss:  0.045462
+[Epoch 022/100]	Epsilon:0.3939	#Expl.:1735/4299	#Buy:603	#Sell:1928	#Hold:1768	#Stocks:  0.129084	PV:   3094.21	POS:1	NEG:4292	Loss:  0.045519
+[Epoch 023/100]	Epsilon:0.3889	#Expl.:1689/4299	#Buy:719	#Sell:795	#Hold:2785	#Stocks:  0.208223	PV:   3422.43	POS:1	NEG:4293	Loss:  0.043356
+[Epoch 024/100]	Epsilon:0.3838	#Expl.:1663/4299	#Buy:610	#Sell:875	#Hold:2814	#Stocks:  0.596033	PV:   3809.65	POS:0	NEG:4295	Loss:  0.042176
+[Epoch 025/100]	Epsilon:0.3788	#Expl.:1635/4299	#Buy:731	#Sell:949	#Hold:2619	#Stocks:  0.315410	PV:   2474.80	POS:0	NEG:4293	Loss:  0.045629
+[Epoch 026/100]	Epsilon:0.3737	#Expl.:1629/4299	#Buy:1492	#Sell:1189	#Hold:1618	#Stocks:  0.234909	PV:   1908.76	POS:0	NEG:4292	Loss:  0.052639
+[Epoch 027/100]	Epsilon:0.3687	#Expl.:1628/4299	#Buy:1108	#Sell:1519	#Hold:1672	#Stocks:  0.102209	PV:   2207.42	POS:0	NEG:4293	Loss:  0.053058
+[Epoch 028/100]	Epsilon:0.3636	#Expl.:1576/4299	#Buy:1155	#Sell:1164	#Hold:1980	#Stocks:  0.211255	PV:   1949.22	POS:1	NEG:4291	Loss:  0.051160
+[Epoch 029/100]	Epsilon:0.3586	#Expl.:1592/4299	#Buy:963	#Sell:891	#Hold:2445	#Stocks:  0.158595	PV:   3279.16	POS:1	NEG:4293	Loss:  0.048373
+[Epoch 030/100]	Epsilon:0.3535	#Expl.:1497/4299	#Buy:1086	#Sell:645	#Hold:2568	#Stocks:  0.000000	PV:   3017.42	POS:2	NEG:4291	Loss:  0.045922
+[Epoch 031/100]	Epsilon:0.3485	#Expl.:1474/4299	#Buy:1312	#Sell:617	#Hold:2370	#Stocks:  0.056084	PV:   2842.99	POS:3	NEG:4289	Loss:  0.046817
+[Epoch 032/100]	Epsilon:0.3434	#Expl.:1470/4299	#Buy:1315	#Sell:672	#Hold:2312	#Stocks:  0.273566	PV:   3635.73	POS:1	NEG:4293	Loss:  0.047199
+[Epoch 033/100]	Epsilon:0.3384	#Expl.:1480/4299	#Buy:1096	#Sell:795	#Hold:2408	#Stocks:  0.002312	PV:   3091.47	POS:2	NEG:4290	Loss:  0.048140
+[Epoch 034/100]	Epsilon:0.3333	#Expl.:1414/4299	#Buy:1321	#Sell:921	#Hold:2057	#Stocks:  0.329783	PV:   3809.30	POS:3	NEG:4290	Loss:  0.051675
+[Epoch 035/100]	Epsilon:0.3283	#Expl.:1386/4299	#Buy:1475	#Sell:793	#Hold:2031	#Stocks:  0.202242	PV:   1606.17	POS:0	NEG:4291	Loss:  0.050851
+[Epoch 036/100]	Epsilon:0.3232	#Expl.:1379/4299	#Buy:1376	#Sell:839	#Hold:2084	#Stocks:  0.337583	PV:   3426.02	POS:1	NEG:4293	Loss:  0.050391

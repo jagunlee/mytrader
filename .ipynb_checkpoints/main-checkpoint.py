@@ -8,7 +8,7 @@ import numpy as np
 
 if __name__ == '__main__':
     stock_code = 'BTCUSDT'
-
+    model_ver = '20180724051736'
    
     log_dir = os.path.join(settings.BASE_DIR, 'logs/%s' % stock_code)
     timestr = settings.get_time_str()
@@ -56,13 +56,18 @@ if __name__ == '__main__':
     chart_data=chart_data.dropna(axis=1)
     chart_data = chart_data.loc[:1507100400000]
     training_data = training_data.loc[:1507100400000]
+    '''
     policy_learner = PolicyLearner(
-        stock_code=stock_code, chart_data=chart_data, training_data=training_data, delayed_reward_threshold=0.2, lr=.1)
-    policy_learner.fit(balance=10000, num_epoches=100,discount_factor=0, start_epsilon=.5)
+        stock_code=stock_code, chart_data=chart_data, training_data=training_data)
+    policy_learner.trade(balance=10000,model_path=os.path.join(settings.BASE_DIR,'models/{}/model_{}.h5'.format(stock_code,model_ver)))
 
-
+    '''
+    policy_learner = PolicyLearner(
+        stock_code=stock_code, chart_data=chart_data, training_data=training_data, delayed_reward_threshold=0.2, lr=.001)
+    policy_learner.fit(balance=10000, num_epoches=500,discount_factor=0, start_epsilon=.5)
     model_dir = os.path.join(settings.BASE_DIR, 'models/%s' % stock_code)
     if not os.path.isdir(model_dir):
         os.makedirs(model_dir)
     model_path = os.path.join(model_dir, 'model_%s.h5' % timestr)
     policy_learner.policy_network.save_model(model_path)
+    
