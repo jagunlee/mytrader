@@ -1,0 +1,24 @@
+LR: 0.1, DF: 0, DRT: 0.1
+epoch:10.0000\drt:0.1000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2116/4299	#Buy:1697	#Sell:2600	#Hold:2	#Stocks:  0.245000	PV:   1570.05	POS:3	NEG:4277	Loss:  0.057744
+epoch:10.0000\drt:0.1000
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1916/4299	#Buy:1618	#Sell:2678	#Hold:3	#Stocks:  0.332000	PV:   2121.77	POS:2	NEG:4281	Loss:  0.056740
+epoch:10.0000\drt:0.1000
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1615/4299	#Buy:2262	#Sell:2037	#Hold:0	#Stocks:  0.214000	PV:   1372.35	POS:4	NEG:4274	Loss:  0.058251
+epoch:10.0000\drt:0.1000
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1485/4299	#Buy:2584	#Sell:1710	#Hold:5	#Stocks:  0.000000	PV:   1411.90	POS:6	NEG:4272	Loss:  0.057241
+epoch:10.0000\drt:0.1000
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1156/4299	#Buy:2024	#Sell:2129	#Hold:146	#Stocks:  0.001000	PV:   3935.51	POS:6	NEG:4280	Loss:  0.060193
+epoch:10.0000\drt:0.1000
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:956/4299	#Buy:1380	#Sell:2919	#Hold:0	#Stocks:  0.001000	PV:   3320.55	POS:2	NEG:4286	Loss:  0.052726
+epoch:10.0000\drt:0.1000
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:700/4299	#Buy:890	#Sell:3403	#Hold:6	#Stocks:  0.001000	PV:   4536.03	POS:1	NEG:4291	Loss:  0.040375
+epoch:10.0000\drt:0.1000
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:477/4299	#Buy:674	#Sell:3585	#Hold:40	#Stocks:  0.800000	PV:   5125.64	POS:1	NEG:4292	Loss:  0.032250
+epoch:10.0000\drt:0.1000
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:243/4299	#Buy:1595	#Sell:2704	#Hold:0	#Stocks:  0.500000	PV:   3231.68	POS:2	NEG:4286	Loss:  0.056258
+epoch:10.0000\drt:0.1000
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:1192	#Sell:3107	#Hold:0	#Stocks:  1.077000	PV:   6884.56	POS:4	NEG:4289	Loss:  0.047147
+Max PV: 6884.561849543357, 	 # Win: 0

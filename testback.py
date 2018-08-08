@@ -20,9 +20,7 @@ from policy_network import PolicyNetwork
 import math
 
 class TestStrategy(bt.Strategy):
-    params = (('fast', 10), ('slow', 30),('maperiod', 15))
-    
-    
+
     def log(self, txt, dt=None):
         dt = dt or self.datas[0].datetime.datetime(0)
         print('%s, %s' % (dt, txt))
@@ -60,7 +58,7 @@ class TestStrategy(bt.Strategy):
 
 
         features_training_data = [
-             'ADA_c_p','ADX_c_p','AMB_c_p','ARK_c_p','ARN_c_p','AST_c_p','BAT_c_p','BCC_c_p','BCD_c_p','BCPT_c_p','BNB_c_p','BNT_c_p','BQX_c_p','BTG_c_p','BTS_c_p','CDT_c_p','CMT_c_p','CND_c_p','DASH_c_p','DGD_c_p','DLT_c_p','DNT_c_p','ELF_c_p','ENG_c_p','ENJ_c_p','EOS_c_p','ETC_c_p','ETH_c_p','EVX_c_p','FUEL_c_p','FUN_c_p','GAS_c_p','GTO_c_p','GVT_c_p','GXS_c_p','HSR_c_p','ICN_c_p','ICX_c_p','IOTA_c_p','KMD_c_p','KNC_c_p','LEND_c_p','LINK_c_p','LRC_c_p','LSK_c_p','LTC_c_p','MANA_c_p','MCO_c_p','MDA_c_p','MOD_c_p','MTH_c_p','MTL_c_p','NEO_c_p','NULS_c_p','OAX_c_p','OMG_c_p','OST_c_p','POE_c_p','POWR_c_p','PPT_c_p','QSP_c_p','QTUM_c_p','RCN_c_p','RDN_c_p','REQ_c_p','SALT_c_p','SNGLS_c_p','SNM_c_p','SNT_c_p','STORJ_c_p','STRAT_c_p','SUB_c_p','TNB_c_p','TNT_c_p','TRX_c_p','VEN_c_p','VIB_c_p','WABI_c_p','WAVES_c_p','WTC_c_p','XLM_c_p','XMR_c_p','XRP_c_p','XVG_c_p','XZC_c_p','YOYO_c_p','ZEC_c_p','ZRX_c_p',
+             
          'high_close_ratio', 'low_close_ratio',
         'close_lastclose_ratio', 'volume_lastvolume_ratio',
         'close_ma5_ratio', 'volume_ma5_ratio',
@@ -140,6 +138,9 @@ class TestStrategy(bt.Strategy):
             self.buy(size=trading_unit)
             self.log('buy')
         self.log('value : %.2f , cash : %.2f , action : %.2f , confidence : %.2f , stock : %.2f' % (self.broker.getvalue(),self.broker.getcash(),action, confidence,self.num_stocks))
+        
+        
+        
 if __name__ == '__main__':
 
     cerebro = bt.Cerebro(stdstats=True)

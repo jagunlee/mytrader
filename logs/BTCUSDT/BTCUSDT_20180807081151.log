@@ -1,0 +1,24 @@
+LR: 0.1, DF: 0, DRT: 0.1
+epoch:10.0000\drt:0.1000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2163/4299	#Buy:1789	#Sell:2506	#Hold:4	#Stocks:  0.001000	PV:   2848.28	POS:3	NEG:4283	Loss:  0.060160
+epoch:10.0000\drt:0.1000
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1879/4299	#Buy:1564	#Sell:2735	#Hold:0	#Stocks:  0.000000	PV:   1541.79	POS:2	NEG:4278	Loss:  0.057097
+epoch:10.0000\drt:0.1000
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1654/4299	#Buy:1616	#Sell:2661	#Hold:22	#Stocks:  0.150000	PV:   1893.49	POS:3	NEG:4279	Loss:  0.057391
+epoch:10.0000\drt:0.1000
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1460/4299	#Buy:1355	#Sell:2944	#Hold:0	#Stocks:  0.001000	PV:   1466.81	POS:0	NEG:4282	Loss:  0.052397
+epoch:10.0000\drt:0.1000
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1176/4299	#Buy:1856	#Sell:2442	#Hold:1	#Stocks:  0.000000	PV:   2853.95	POS:5	NEG:4279	Loss:  0.053544
+epoch:10.0000\drt:0.1000
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:936/4299	#Buy:1906	#Sell:2255	#Hold:138	#Stocks:  0.001000	PV:   2510.03	POS:0	NEG:4287	Loss:  0.052009
+epoch:10.0000\drt:0.1000
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:707/4299	#Buy:1584	#Sell:2513	#Hold:202	#Stocks:  0.000000	PV:   1969.12	POS:2	NEG:4281	Loss:  0.050790
+epoch:10.0000\drt:0.1000
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:466/4299	#Buy:1444	#Sell:2830	#Hold:25	#Stocks:  0.000000	PV:   3059.75	POS:5	NEG:4279	Loss:  0.046614
+epoch:10.0000\drt:0.1000
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:242/4299	#Buy:1924	#Sell:2316	#Hold:59	#Stocks:  0.001000	PV:   3133.01	POS:4	NEG:4280	Loss:  0.045095
+epoch:10.0000\drt:0.1000
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:340	#Sell:3954	#Hold:5	#Stocks:  0.000000	PV:  10191.23	POS:4	NEG:4292	Loss:  0.015881
+Max PV: 10191.233167370425, 	 # Win: 1

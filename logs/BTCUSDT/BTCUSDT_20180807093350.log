@@ -1,0 +1,16 @@
+LR: 0.1, DF: 0, DRT: 0.1
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2194/4299	#Buy:2683	#Sell:1607	#Hold:9	#Stocks:  0.001000	PV:   1383.22	POS:8	NEG:4267	Loss:  0.058991
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1889/4299	#Buy:2624	#Sell:1650	#Hold:25	#Stocks:  0.237000	PV:   1517.67	POS:6	NEG:4272	Loss:  0.055589
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1687/4299	#Buy:2631	#Sell:1668	#Hold:0	#Stocks:  0.001000	PV:   1167.23	POS:6	NEG:4269	Loss:  0.057960
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1459/4299	#Buy:2310	#Sell:1989	#Hold:0	#Stocks:  0.063000	PV:   2334.58	POS:6	NEG:4275	Loss:  0.059739
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1199/4299	#Buy:2593	#Sell:1703	#Hold:3	#Stocks:  0.293000	PV:   2977.73	POS:5	NEG:4279	Loss:  0.058253
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:971/4299	#Buy:2130	#Sell:2165	#Hold:4	#Stocks:  0.543000	PV:   3488.10	POS:4	NEG:4282	Loss:  0.060048
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:671/4299	#Buy:2344	#Sell:1951	#Hold:4	#Stocks:  0.190000	PV:   2089.56	POS:5	NEG:4276	Loss:  0.059389
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:487/4299	#Buy:2761	#Sell:1538	#Hold:0	#Stocks:  0.312000	PV:   3450.00	POS:7	NEG:4276	Loss:  0.054642
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:233/4299	#Buy:2555	#Sell:1744	#Hold:0	#Stocks:  0.527000	PV:   3370.09	POS:9	NEG:4272	Loss:  0.056048
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3816	#Sell:483	#Hold:0	#Stocks:  0.711000	PV:   4544.27	POS:15	NEG:4264	Loss:  0.023204
+Max PV: 4544.270099355473, 	 # Win: 0
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LR: 0.1, DF: 0, DRT: 0.9

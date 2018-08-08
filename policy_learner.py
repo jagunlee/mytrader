@@ -92,7 +92,7 @@ class PolicyLearner:
                 epsilon = start_epsilon * (1. - float(epoch) / (num_epoches - 1))
             else:
                 epsilon = 0
-            logger.info("epoch:%.4f\drt:%.4f"%(num_epoches,delayed_reward_threshold))
+            
             while True:
                 
                 next_sample = self._build_sample()
