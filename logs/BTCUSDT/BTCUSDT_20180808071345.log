@@ -1,0 +1,8 @@
+LR: 0.1, DF: 0, DRT: 0.1
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2154/4299	#Buy:1504	#Sell:2785	#Hold:10	#Stocks:  0.081000	PV:   2323.21	POS:2	NEG:4283	Loss:  0.056565
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1953/4299	#Buy:1389	#Sell:2903	#Hold:7	#Stocks:  0.301000	PV:   3033.66	POS:5	NEG:4279	Loss:  0.053554
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1664/4299	#Buy:2366	#Sell:1933	#Hold:0	#Stocks:  0.002000	PV:   1921.40	POS:8	NEG:4270	Loss:  0.056122
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1449/4299	#Buy:1290	#Sell:3006	#Hold:3	#Stocks:  0.415000	PV:   2723.21	POS:1	NEG:4285	Loss:  0.050653
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1215/4299	#Buy:1843	#Sell:2456	#Hold:0	#Stocks:  0.372000	PV:   2380.22	POS:3	NEG:4280	Loss:  0.055852

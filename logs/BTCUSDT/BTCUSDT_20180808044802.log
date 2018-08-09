@@ -1,0 +1,39 @@
+LR: 0.1, DF: 0, DRT: 0.1
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2161/4299	#Buy:2268	#Sell:2031	#Hold:0	#Stocks:  0.004000	PV:   1514.54	POS:5	NEG:4274	Loss:  0.058206
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1937/4299	#Buy:1255	#Sell:3043	#Hold:1	#Stocks:  0.188000	PV:   2222.62	POS:2	NEG:4282	Loss:  0.051158
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1662/4299	#Buy:1534	#Sell:2763	#Hold:2	#Stocks:  0.015000	PV:   1301.15	POS:2	NEG:4278	Loss:  0.057193
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1461/4299	#Buy:3320	#Sell:979	#Hold:0	#Stocks:  0.243000	PV:   1555.62	POS:9	NEG:4265	Loss:  0.042212
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1194/4299	#Buy:2525	#Sell:1773	#Hold:1	#Stocks:  0.222000	PV:   1419.81	POS:7	NEG:4269	Loss:  0.053020
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:953/4299	#Buy:1823	#Sell:2476	#Hold:0	#Stocks:  0.330000	PV:   2333.31	POS:3	NEG:4281	Loss:  0.055261
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:724/4299	#Buy:1731	#Sell:2562	#Hold:6	#Stocks:  0.320000	PV:   2044.85	POS:7	NEG:4271	Loss:  0.046582
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:458/4299	#Buy:2648	#Sell:1587	#Hold:64	#Stocks:  0.380000	PV:   2429.84	POS:7	NEG:4274	Loss:  0.038999
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:262/4299	#Buy:3476	#Sell:823	#Hold:0	#Stocks:  0.333000	PV:   2130.87	POS:11	NEG:4265	Loss:  0.036913
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2761	#Sell:1524	#Hold:14	#Stocks:  0.001000	PV:   3857.56	POS:8	NEG:4275	Loss:  0.040900
+Max PV: 3857.5629112388638, 	 # Win: 0
+findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=9.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+LR: 0.1, DF: 0, DRT: 0.9
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2157/4299	#Buy:3044	#Sell:1254	#Hold:1	#Stocks:  0.225000	PV:   1440.02	POS:0	NEG:4299	Loss:  0.052515
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1871/4299	#Buy:3247	#Sell:1051	#Hold:1	#Stocks:  0.085000	PV:   1249.38	POS:0	NEG:4299	Loss:  0.046265
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1623/4299	#Buy:3234	#Sell:1064	#Hold:1	#Stocks:  0.267000	PV:   1709.36	POS:0	NEG:4299	Loss:  0.046167
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1483/4299	#Buy:3353	#Sell:946	#Hold:0	#Stocks:  0.235000	PV:   1501.72	POS:0	NEG:4299	Loss:  0.042615
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1230/4299	#Buy:3467	#Sell:832	#Hold:0	#Stocks:  0.073000	PV:   2041.43	POS:0	NEG:4299	Loss:  0.038904
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:956/4299	#Buy:3583	#Sell:716	#Hold:0	#Stocks:  0.287000	PV:   1839.85	POS:0	NEG:4299	Loss:  0.034543
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:727/4299	#Buy:3630	#Sell:669	#Hold:0	#Stocks:  0.428000	PV:   2777.60	POS:0	NEG:4299	Loss:  0.032490
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:485/4299	#Buy:3818	#Sell:480	#Hold:1	#Stocks:  0.222000	PV:   2498.51	POS:0	NEG:4299	Loss:  0.024597
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:203/4299	#Buy:3732	#Sell:567	#Hold:0	#Stocks:  0.786000	PV:   5027.14	POS:0	NEG:4299	Loss:  0.027434
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3864	#Sell:435	#Hold:0	#Stocks:  0.531000	PV:   3399.17	POS:0	NEG:4299	Loss:  0.021609
+Max PV: 5027.14118935793, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.01
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2103/4299	#Buy:1708	#Sell:2591	#Hold:0	#Stocks:  0.112000	PV:   1784.53	POS:142	NEG:3907	Loss:  0.066756
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1924/4299	#Buy:2178	#Sell:2118	#Hold:3	#Stocks:  0.136000	PV:   1263.30	POS:314	NEG:3565	Loss:  0.077754
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1705/4299	#Buy:1656	#Sell:2642	#Hold:1	#Stocks:  0.001000	PV:   1844.45	POS:206	NEG:3772	Loss:  0.065519
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1429/4299	#Buy:873	#Sell:3422	#Hold:4	#Stocks:  0.001000	PV:   2620.68	POS:85	NEG:4057	Loss:  0.045015
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1194/4299	#Buy:1888	#Sell:2406	#Hold:5	#Stocks:  0.593000	PV:   3934.95	POS:230	NEG:3762	Loss:  0.067371
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:966/4299	#Buy:1586	#Sell:2713	#Hold:0	#Stocks:  0.416000	PV:   3159.59	POS:231	NEG:3756	Loss:  0.061277
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:714/4299	#Buy:827	#Sell:3470	#Hold:2	#Stocks:  0.571000	PV:   4285.50	POS:100	NEG:4051	Loss:  0.040725
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:496/4299	#Buy:493	#Sell:3782	#Hold:24	#Stocks:  0.871000	PV:   5687.28	POS:35	NEG:4194	Loss:  0.026135
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:230/4299	#Buy:1595	#Sell:2700	#Hold:4	#Stocks:  0.482000	PV:   3082.85	POS:123	NEG:3987	Loss:  0.044739
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2448	#Sell:1847	#Hold:4	#Stocks:  0.181000	PV:   2258.05	POS:354	NEG:3523	Loss:  0.079189
+Max PV: 5687.2789325339, 	 # Win: 0

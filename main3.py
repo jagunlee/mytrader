@@ -27,7 +27,8 @@ if __name__ == '__main__':
     pre=[]
     rec=[]
     pv=[]
-    for drt in (0.1,0.9,0.01):
+    for drt in range(10,90):
+        drt=drt/100.
         drts.append(drt)
         log_dir = os.path.join(settings.BASE_DIR, 'logs/%s' % stock_code)
         timestr = settings.get_time_str()
@@ -258,11 +259,20 @@ if __name__ == '__main__':
         pv.append(cerebro.broker.getvalue())
         buy.append(buycnt)
         sell.append(sellcnt)
-        acc.append((confmat[0][0]+confmat[1][1])/(confmat[0][0]+confmat[0][1]+confmat[1][0]+confmat[1][1]))
-        pre.append(confmat[1][1]/(confmat[1][1]+confmat[1][0]))
-        rec.append(confmat[1][1]/(confmat[1][1]+confmat[0][1]))
+        acc.append((confmat[0][0]+confmat[1][1])/(confmat[0][0]+confmat[0][1]+confmat[1][0]+confmat[1][1])) if confmat[0][0]+confmat[0][1]+confmat[1][0]+confmat[1][1]!=0 else acc.append(0)
+        pre.append(confmat[1][1]/(confmat[1][1]+confmat[1][0])) if confmat[1][1]+confmat[1][0]!=0 else pre.append(0)
+        rec.append(confmat[1][1]/(confmat[1][1]+confmat[0][1])) if confmat[1][1]+confmat[0][1]!=0 else rec.append(0)
         cerebro.plot(iplot=True)[0][0].savefig('plot_drt{}.png'.format(drt))
-        print(sell,buy,pv,acc,pre,rec)
+        print(drts,sell,buy,pv,acc,pre,rec)
     
-    sve=pd.dataframe
-    plt.
+        my_dict = {"drt": drts, "buy":buy, "sell": sell, "acc":acc,"pre":pre,"rec":rec,"pv":pv}
+        datas=pd.DataFrame(my_dict)
+        datas.to_csv('checkdata.csv', index='False')
+    plt.plot(drts,buy,label="buy")
+    plt.plot(drts,sell,label="sell")
+    plt.plot(drts,acc,label="acc")
+    plt.plot(drts,pre,label="pre")
+    plt.plot(drts,rec,label="rec")
+    plt.plot(drts,pv,label="pv")
+    plt.legend()
+    plt.savefig('checkdata.png')
