@@ -8,24 +8,23 @@ class Agent:
     TRADING_TAX = 0.003 
 
     # 행동
-    ACTION_BUY = 0  # 매수
-    ACTION_SELL = 1  # 매도
-    ACTION_HOLD = 2  # 홀딩
-    #20180730 ACTION에 ACTION_HOLD 추가
-    ACTIONS = [ACTION_BUY, ACTION_SELL]  # 인공 신경망에서 확률을 구할 행동들
-    NUM_ACTIONS = len(ACTIONS)  # 인공 신경망에서 고려할 출력값의 개수
+    ACTION_BUY = 0 
+    ACTION_SELL = 1  
+    ACTION_HOLD = 2  
+
+    ACTIONS = [ACTION_BUY, ACTION_SELL]  # ACTION_HOLD까지 고려를 해보고 싶은 경우 리스트 안에 추가해주기만 하면 됨
+    NUM_ACTIONS = len(ACTIONS) 
 
     def __init__(
         self, environment, min_trading_unit=0, 
         delayed_reward_threshold=.05):
-        # Environment 객체
-        self.environment = environment  # 현재 주식 가격을 가져오기 위해 환경 참조
+        self.environment = environment 
 
-        # 최소 매매 단위, 최대 매매 단위, 지연보상 임계치
-        self.min_trading_unit = min_trading_unit  # 최소 단일 거래 단위
-        self.delayed_reward_threshold = delayed_reward_threshold  # 지연보상 임계치
 
-        # Agent 클래스의 속성
+        self.min_trading_unit = min_trading_unit  
+        self.delayed_reward_threshold = delayed_reward_threshold  
+
+
         self.initial_balance = 0  # 초기 자본금
         self.balance = 0  # 현재 현금 잔고
         self.num_stocks = 0  # 보유 주식 수
@@ -65,15 +64,15 @@ class Agent:
         )
 
     def decide_action(self, policy_network, sample, epsilon):
-
+        #min/max trading unit이 없기 때문에 랜덤하게 행동할 경우 confidence를 0과 0.5사이로 랜덤하게 선택
         if np.random.rand() < epsilon:
             exploration = True
             action = np.random.randint(self.NUM_ACTIONS)
             confidence = np.random.rand()*0.5
         else:
             exploration = False
-            probs = policy_network.predict(sample)  # 각 행동에 대한 확률
-            action = np.argmax(probs) #if np.max(probs) > 0.1 else Agent.ACTION_HOLD
+            probs = policy_network.predict(sample)  
+            action = np.argmax(probs) 
             confidence = probs[action]
         return action, confidence, exploration
 
@@ -98,7 +97,7 @@ class Agent:
 
         # 매수
         if action == Agent.ACTION_BUY:
-            # 매수할 단위를 판단
+            # 매수할 단위는 confidence에 지수적으로 비례하게 설정, 0.001단위로 내림
             trading_unit = int((self.balance*math.exp(confidence-1)/(float(curr_price)*(1+self.TRADING_CHARGE)))*1000)/1000
             balance = self.balance - curr_price * (1 + self.TRADING_CHARGE) * trading_unit
             invest_amount = curr_price * (1 + self.TRADING_CHARGE) * trading_unit
@@ -110,9 +109,8 @@ class Agent:
 
         # 매도
         elif action == Agent.ACTION_SELL:  # sell
-            # 매도할 단위를 판단
+            # 매도할 단위를 판단, 매수 방법과 같음
             trading_unit = int((self.num_stocks*math.exp(float(confidence)-1))*1000)/1000
-            # 보유 주식이 모자랄 경우 가능한 만큼 최대한 매도
             trading_unit = min(trading_unit, self.num_stocks)
             # 매도
             invest_amount = curr_price * (

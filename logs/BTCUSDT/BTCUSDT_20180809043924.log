@@ -262,3 +262,426 @@ LR: 0.1, DF: 0, DRT: 0.31
 [Epoch 06/10]	Epsilon:0.2222	#Expl.:995/4299	#Buy:793	#Sell:3337	#Hold:169	#Stocks:  0.000000	PV:   5411.21	POS:0	NEG:4298	Loss:  0.036423
 [Epoch 07/10]	Epsilon:0.1667	#Expl.:666/4299	#Buy:566	#Sell:2994	#Hold:739	#Stocks:  0.000000	PV:   4055.69	POS:0	NEG:4297	Loss:  0.028461
 [Epoch 08/10]	Epsilon:0.1111	#Expl.:498/4299	#Buy:534	#Sell:3636	#Hold:129	#Stocks:  0.000000	PV:   5669.84	POS:0	NEG:4298	Loss:  0.026177
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:246/4299	#Buy:418	#Sell:3675	#Hold:206	#Stocks:  0.000000	PV:   5543.68	POS:0	NEG:4298	Loss:  0.021301
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:267	#Sell:3899	#Hold:133	#Stocks:  0.001000	PV:   9402.07	POS:0	NEG:4299	Loss:  0.013777
+Max PV: 9402.07146714194, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.32
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2119/4299	#Buy:2160	#Sell:2130	#Hold:9	#Stocks:  0.155000	PV:   1823.29	POS:0	NEG:4295	Loss:  0.059872
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1890/4299	#Buy:2571	#Sell:1719	#Hold:9	#Stocks:  0.210000	PV:   1342.73	POS:0	NEG:4294	Loss:  0.058112
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1700/4299	#Buy:2432	#Sell:1866	#Hold:1	#Stocks:  0.283000	PV:   1812.49	POS:0	NEG:4295	Loss:  0.056809
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1464/4299	#Buy:3506	#Sell:793	#Hold:0	#Stocks:  0.331000	PV:   2118.36	POS:1	NEG:4294	Loss:  0.037934
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1225/4299	#Buy:2282	#Sell:2016	#Hold:1	#Stocks:  0.241000	PV:   1543.36	POS:0	NEG:4295	Loss:  0.052646
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:920/4299	#Buy:2791	#Sell:1506	#Hold:2	#Stocks:  0.272000	PV:   1742.40	POS:0	NEG:4295	Loss:  0.043155
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:677/4299	#Buy:2002	#Sell:2031	#Hold:266	#Stocks:  0.876000	PV:   5600.70	POS:0	NEG:4298	Loss:  0.046380
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:482/4299	#Buy:3233	#Sell:1002	#Hold:64	#Stocks:  0.000000	PV:   3825.05	POS:0	NEG:4297	Loss:  0.033799
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:232/4299	#Buy:1403	#Sell:2386	#Hold:510	#Stocks:  0.828000	PV:   5296.60	POS:0	NEG:4298	Loss:  0.045058
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3020	#Sell:1264	#Hold:15	#Stocks:  0.757000	PV:   4838.49	POS:0	NEG:4297	Loss:  0.046657
+Max PV: 5600.698465813363, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.33
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2158/4299	#Buy:1271	#Sell:3024	#Hold:4	#Stocks:  0.238000	PV:   1587.23	POS:0	NEG:4295	Loss:  0.052567
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1968/4299	#Buy:1137	#Sell:3147	#Hold:15	#Stocks:  0.181000	PV:   2302.05	POS:0	NEG:4296	Loss:  0.048594
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1712/4299	#Buy:932	#Sell:3186	#Hold:181	#Stocks:  0.114000	PV:   2765.62	POS:0	NEG:4296	Loss:  0.042593
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1420/4299	#Buy:738	#Sell:3546	#Hold:15	#Stocks:  0.176000	PV:   3027.92	POS:0	NEG:4297	Loss:  0.035629
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1146/4299	#Buy:640	#Sell:3422	#Hold:237	#Stocks:  0.153000	PV:   3963.97	POS:0	NEG:4297	Loss:  0.031870
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:974/4299	#Buy:582	#Sell:3648	#Hold:69	#Stocks:  0.001000	PV:   4353.58	POS:0	NEG:4297	Loss:  0.029450
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:680/4299	#Buy:404	#Sell:3856	#Hold:39	#Stocks:  0.466000	PV:   5333.47	POS:0	NEG:4298	Loss:  0.021403
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:452/4299	#Buy:276	#Sell:3938	#Hold:85	#Stocks:  0.000000	PV:   7164.14	POS:0	NEG:4299	Loss:  0.015122
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:234/4299	#Buy:170	#Sell:3565	#Hold:564	#Stocks:  0.000000	PV:   8158.61	POS:0	NEG:4299	Loss:  0.009533
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:78	#Sell:3838	#Hold:383	#Stocks:  0.001000	PV:   8519.33	POS:0	NEG:4299	Loss:  0.004493
+Max PV: 8519.327946650485, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.34
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2202/4299	#Buy:2037	#Sell:2255	#Hold:7	#Stocks:  0.131000	PV:   1329.78	POS:0	NEG:4295	Loss:  0.059718
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1899/4299	#Buy:1494	#Sell:2793	#Hold:12	#Stocks:  0.106000	PV:   1556.98	POS:0	NEG:4295	Loss:  0.054381
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1659/4299	#Buy:1962	#Sell:2333	#Hold:4	#Stocks:  0.144000	PV:   1754.07	POS:0	NEG:4295	Loss:  0.060054
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1403/4299	#Buy:1969	#Sell:2330	#Hold:0	#Stocks:  0.003000	PV:   1990.59	POS:0	NEG:4296	Loss:  0.058561
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1258/4299	#Buy:2408	#Sell:1887	#Hold:4	#Stocks:  0.177000	PV:   2541.00	POS:0	NEG:4296	Loss:  0.053904
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:932/4299	#Buy:3678	#Sell:619	#Hold:2	#Stocks:  0.485000	PV:   3099.78	POS:1	NEG:4295	Loss:  0.030159
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:684/4299	#Buy:3823	#Sell:476	#Hold:0	#Stocks:  0.390000	PV:   2497.69	POS:0	NEG:4296	Loss:  0.024294
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:489/4299	#Buy:3775	#Sell:524	#Hold:0	#Stocks:  0.498000	PV:   3183.06	POS:0	NEG:4297	Loss:  0.024616
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:233/4299	#Buy:3747	#Sell:546	#Hold:6	#Stocks:  0.000000	PV:   3263.65	POS:1	NEG:4295	Loss:  0.026394
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2830	#Sell:679	#Hold:790	#Stocks:  0.000000	PV:   5129.41	POS:0	NEG:4298	Loss:  0.042657
+Max PV: 5129.411747216902, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.35
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2154/4299	#Buy:1470	#Sell:2828	#Hold:1	#Stocks:  0.002000	PV:   2029.01	POS:0	NEG:4296	Loss:  0.056449
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1875/4299	#Buy:1526	#Sell:2768	#Hold:5	#Stocks:  0.168000	PV:   1664.97	POS:0	NEG:4295	Loss:  0.056134
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1669/4299	#Buy:1206	#Sell:3091	#Hold:2	#Stocks:  0.241000	PV:   3108.52	POS:0	NEG:4297	Loss:  0.049814
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1408/4299	#Buy:1201	#Sell:3092	#Hold:6	#Stocks:  0.001000	PV:   3494.81	POS:0	NEG:4297	Loss:  0.049536
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1183/4299	#Buy:776	#Sell:3509	#Hold:14	#Stocks:  0.002000	PV:   4313.47	POS:0	NEG:4298	Loss:  0.037114
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:957/4299	#Buy:797	#Sell:3491	#Hold:11	#Stocks:  0.001000	PV:   3880.16	POS:0	NEG:4297	Loss:  0.037660
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:707/4299	#Buy:938	#Sell:3349	#Hold:12	#Stocks:  0.020000	PV:   4176.80	POS:0	NEG:4297	Loss:  0.041855
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:469/4299	#Buy:847	#Sell:3445	#Hold:7	#Stocks:  0.001000	PV:   5862.13	POS:0	NEG:4298	Loss:  0.038662
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:264/4299	#Buy:698	#Sell:3594	#Hold:7	#Stocks:  0.000000	PV:   6040.70	POS:0	NEG:4298	Loss:  0.033352
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:579	#Sell:3701	#Hold:19	#Stocks:  0.000000	PV:   4872.48	POS:0	NEG:4298	Loss:  0.028207
+Max PV: 6040.703103345924, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.36
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2121/4299	#Buy:2580	#Sell:1719	#Hold:0	#Stocks:  0.190000	PV:   1220.22	POS:0	NEG:4295	Loss:  0.056550
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1890/4299	#Buy:2594	#Sell:1704	#Hold:1	#Stocks:  0.128000	PV:   1311.19	POS:0	NEG:4295	Loss:  0.054317
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1662/4299	#Buy:1944	#Sell:2353	#Hold:2	#Stocks:  0.039000	PV:   2184.41	POS:0	NEG:4296	Loss:  0.060178
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1426/4299	#Buy:1475	#Sell:2819	#Hold:5	#Stocks:  0.100000	PV:   2927.91	POS:1	NEG:4295	Loss:  0.053453
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1203/4299	#Buy:1238	#Sell:3054	#Hold:7	#Stocks:  0.673000	PV:   4622.61	POS:0	NEG:4298	Loss:  0.050303
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:1010/4299	#Buy:1063	#Sell:3236	#Hold:0	#Stocks:  0.043000	PV:   3780.90	POS:0	NEG:4297	Loss:  0.044635
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:747/4299	#Buy:1036	#Sell:3252	#Hold:11	#Stocks:  0.001000	PV:   4067.41	POS:0	NEG:4297	Loss:  0.044997
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:455/4299	#Buy:670	#Sell:3592	#Hold:37	#Stocks:  0.001000	PV:   5137.99	POS:0	NEG:4298	Loss:  0.032152
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:231/4299	#Buy:701	#Sell:3594	#Hold:4	#Stocks:  0.009000	PV:   5061.62	POS:0	NEG:4298	Loss:  0.032964
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:827	#Sell:3468	#Hold:4	#Stocks:  0.002000	PV:   6421.68	POS:0	NEG:4299	Loss:  0.036891
+Max PV: 6421.683133703408, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.37
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2159/4299	#Buy:2888	#Sell:1411	#Hold:0	#Stocks:  0.001000	PV:   1498.56	POS:0	NEG:4295	Loss:  0.054914
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1882/4299	#Buy:2731	#Sell:1564	#Hold:4	#Stocks:  0.030000	PV:   1289.73	POS:0	NEG:4295	Loss:  0.056999
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1687/4299	#Buy:2571	#Sell:1727	#Hold:1	#Stocks:  0.131000	PV:   1643.31	POS:0	NEG:4296	Loss:  0.059241
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1366/4299	#Buy:2637	#Sell:1660	#Hold:2	#Stocks:  0.043000	PV:   1695.69	POS:0	NEG:4296	Loss:  0.058185
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1159/4299	#Buy:1796	#Sell:2499	#Hold:4	#Stocks:  0.123000	PV:   1358.05	POS:0	NEG:4295	Loss:  0.055601
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:988/4299	#Buy:1919	#Sell:2378	#Hold:2	#Stocks:  0.163000	PV:   1950.89	POS:0	NEG:4296	Loss:  0.060909
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:694/4299	#Buy:1734	#Sell:2565	#Hold:0	#Stocks:  0.164000	PV:   2339.10	POS:0	NEG:4296	Loss:  0.058659
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:470/4299	#Buy:2227	#Sell:2063	#Hold:9	#Stocks:  0.270000	PV:   3135.99	POS:0	NEG:4297	Loss:  0.060849
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:238/4299	#Buy:1993	#Sell:2306	#Hold:0	#Stocks:  0.176000	PV:   2753.33	POS:1	NEG:4295	Loss:  0.060837
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:1751	#Sell:2548	#Hold:0	#Stocks:  0.424000	PV:   3263.63	POS:0	NEG:4297	Loss:  0.059782
+Max PV: 3263.631627058936, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.38
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2221/4299	#Buy:2664	#Sell:1632	#Hold:3	#Stocks:  0.100000	PV:   1145.20	POS:0	NEG:4295	Loss:  0.056900
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1936/4299	#Buy:2934	#Sell:1365	#Hold:0	#Stocks:  0.285000	PV:   1823.96	POS:0	NEG:4296	Loss:  0.052439
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1692/4299	#Buy:3251	#Sell:1045	#Hold:3	#Stocks:  0.315000	PV:   2017.18	POS:0	NEG:4296	Loss:  0.045983
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1408/4299	#Buy:1610	#Sell:2688	#Hold:1	#Stocks:  0.001000	PV:   2561.05	POS:0	NEG:4297	Loss:  0.047082
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1169/4299	#Buy:796	#Sell:3377	#Hold:126	#Stocks:  0.001000	PV:   3250.24	POS:0	NEG:4297	Loss:  0.036167
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:981/4299	#Buy:631	#Sell:3597	#Hold:71	#Stocks:  0.001000	PV:   2683.06	POS:0	NEG:4297	Loss:  0.030694
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:704/4299	#Buy:614	#Sell:3437	#Hold:248	#Stocks:  0.001000	PV:   4255.22	POS:0	NEG:4298	Loss:  0.029901
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:475/4299	#Buy:452	#Sell:3807	#Hold:40	#Stocks:  0.001000	PV:   6263.87	POS:0	NEG:4299	Loss:  0.023080
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:262/4299	#Buy:469	#Sell:3780	#Hold:50	#Stocks:  0.001000	PV:   6408.95	POS:0	NEG:4299	Loss:  0.023196
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:346	#Sell:3896	#Hold:57	#Stocks:  0.395000	PV:   6856.49	POS:0	NEG:4299	Loss:  0.017721
+Max PV: 6856.491356359436, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.39
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2137/4299	#Buy:2205	#Sell:2090	#Hold:4	#Stocks:  0.000000	PV:   1045.85	POS:0	NEG:4295	Loss:  0.059368
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1898/4299	#Buy:1673	#Sell:2626	#Hold:0	#Stocks:  0.000000	PV:   1510.12	POS:0	NEG:4296	Loss:  0.057638
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1681/4299	#Buy:1261	#Sell:3038	#Hold:0	#Stocks:  0.001000	PV:   2090.50	POS:0	NEG:4296	Loss:  0.051334
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1387/4299	#Buy:986	#Sell:3306	#Hold:7	#Stocks:  0.000000	PV:   2638.55	POS:0	NEG:4297	Loss:  0.043072
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1254/4299	#Buy:823	#Sell:3470	#Hold:6	#Stocks:  0.000000	PV:   3702.49	POS:0	NEG:4297	Loss:  0.038306
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:950/4299	#Buy:638	#Sell:3640	#Hold:21	#Stocks:  0.000000	PV:   6117.38	POS:0	NEG:4299	Loss:  0.031010
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:689/4299	#Buy:614	#Sell:3685	#Hold:0	#Stocks:  0.000000	PV:   5321.96	POS:0	NEG:4298	Loss:  0.030112
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:447/4299	#Buy:487	#Sell:3807	#Hold:5	#Stocks:  0.000000	PV:   9662.03	POS:0	NEG:4299	Loss:  0.024225
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:222/4299	#Buy:383	#Sell:3916	#Hold:0	#Stocks:  0.857000	PV:   9256.04	POS:0	NEG:4299	Loss:  0.019309
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:277	#Sell:3975	#Hold:47	#Stocks:  0.001000	PV:  11178.41	POS:0	NEG:4299	Loss:  0.014343
+Max PV: 11178.405739554959, 	 # Win: 1
+LR: 0.1, DF: 0, DRT: 0.4
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2142/4299	#Buy:1223	#Sell:3076	#Hold:0	#Stocks:  0.086000	PV:   2002.16	POS:0	NEG:4296	Loss:  0.051670
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1905/4299	#Buy:1023	#Sell:3270	#Hold:6	#Stocks:  0.001000	PV:   2901.51	POS:0	NEG:4297	Loss:  0.045351
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1722/4299	#Buy:1100	#Sell:3183	#Hold:16	#Stocks:  0.001000	PV:   2406.32	POS:0	NEG:4297	Loss:  0.047190
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1380/4299	#Buy:1053	#Sell:3246	#Hold:0	#Stocks:  0.451000	PV:   2996.80	POS:0	NEG:4297	Loss:  0.044944
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1195/4299	#Buy:1357	#Sell:2888	#Hold:54	#Stocks:  0.000000	PV:   3306.69	POS:1	NEG:4296	Loss:  0.051416
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:916/4299	#Buy:1423	#Sell:2817	#Hold:59	#Stocks:  0.001000	PV:   3156.28	POS:0	NEG:4297	Loss:  0.049725
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:686/4299	#Buy:1409	#Sell:2890	#Hold:0	#Stocks:  0.000000	PV:   4365.98	POS:0	NEG:4298	Loss:  0.048309
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:470/4299	#Buy:1297	#Sell:2978	#Hold:24	#Stocks:  0.001000	PV:   5006.43	POS:0	NEG:4298	Loss:  0.045284
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:247/4299	#Buy:1371	#Sell:2905	#Hold:23	#Stocks:  0.001000	PV:   5679.84	POS:0	NEG:4298	Loss:  0.045795
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:1025	#Sell:3274	#Hold:0	#Stocks:  0.001000	PV:   7055.15	POS:0	NEG:4299	Loss:  0.040897
+Max PV: 7055.151155288925, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.41
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2094/4299	#Buy:2488	#Sell:1811	#Hold:0	#Stocks:  0.128000	PV:   1021.30	POS:0	NEG:4295	Loss:  0.060081
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1962/4299	#Buy:2948	#Sell:1348	#Hold:3	#Stocks:  0.286000	PV:   1828.17	POS:0	NEG:4296	Loss:  0.053800
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1673/4299	#Buy:2551	#Sell:1741	#Hold:7	#Stocks:  0.142000	PV:    915.14	POS:1	NEG:4293	Loss:  0.059116
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1455/4299	#Buy:2372	#Sell:1927	#Hold:0	#Stocks:  0.184000	PV:   1179.67	POS:0	NEG:4295	Loss:  0.059237
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1214/4299	#Buy:1297	#Sell:2999	#Hold:3	#Stocks:  0.085000	PV:   1279.59	POS:0	NEG:4296	Loss:  0.048455
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:1001/4299	#Buy:1011	#Sell:3161	#Hold:127	#Stocks:  0.368000	PV:   2351.99	POS:0	NEG:4297	Loss:  0.044350
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:722/4299	#Buy:1556	#Sell:2599	#Hold:144	#Stocks:  0.274000	PV:   1751.23	POS:0	NEG:4296	Loss:  0.048607
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:495/4299	#Buy:1835	#Sell:2427	#Hold:37	#Stocks:  0.265000	PV:   1698.26	POS:0	NEG:4296	Loss:  0.057804
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:230/4299	#Buy:1790	#Sell:2504	#Hold:5	#Stocks:  0.202000	PV:   1290.80	POS:0	NEG:4296	Loss:  0.058955
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2358	#Sell:1927	#Hold:14	#Stocks:  0.224000	PV:   1435.67	POS:0	NEG:4296	Loss:  0.059675
+Max PV: 2351.988534903372, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.42
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2144/4299	#Buy:1413	#Sell:2802	#Hold:84	#Stocks:  0.000000	PV:   1193.27	POS:0	NEG:4296	Loss:  0.055306
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1916/4299	#Buy:1268	#Sell:2986	#Hold:45	#Stocks:  0.001000	PV:   1768.06	POS:0	NEG:4296	Loss:  0.051829
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1686/4299	#Buy:1243	#Sell:2990	#Hold:66	#Stocks:  0.001000	PV:   2348.36	POS:0	NEG:4297	Loss:  0.050366
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1434/4299	#Buy:1038	#Sell:3218	#Hold:43	#Stocks:  0.000000	PV:   2528.42	POS:0	NEG:4297	Loss:  0.045436
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1203/4299	#Buy:1089	#Sell:3194	#Hold:16	#Stocks:  0.000000	PV:   2367.44	POS:0	NEG:4297	Loss:  0.046802
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:967/4299	#Buy:934	#Sell:3365	#Hold:0	#Stocks:  0.000000	PV:   3941.48	POS:0	NEG:4298	Loss:  0.041332
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:746/4299	#Buy:830	#Sell:3450	#Hold:19	#Stocks:  0.001000	PV:   4196.58	POS:0	NEG:4298	Loss:  0.037525
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:449/4299	#Buy:1217	#Sell:2902	#Hold:180	#Stocks:  0.000000	PV:   2846.61	POS:0	NEG:4297	Loss:  0.048682
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:218/4299	#Buy:1628	#Sell:2608	#Hold:63	#Stocks:  0.318000	PV:   3934.77	POS:1	NEG:4296	Loss:  0.052348
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:1391	#Sell:2877	#Hold:31	#Stocks:  0.001000	PV:   5441.44	POS:0	NEG:4298	Loss:  0.051015
+Max PV: 5441.435247090828, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.43
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2113/4299	#Buy:2804	#Sell:1494	#Hold:1	#Stocks:  0.101000	PV:   1039.67	POS:0	NEG:4295	Loss:  0.056705
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1911/4299	#Buy:3259	#Sell:1035	#Hold:5	#Stocks:  0.226000	PV:   1444.95	POS:0	NEG:4296	Loss:  0.046202
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1664/4299	#Buy:3341	#Sell:958	#Hold:0	#Stocks:  0.252000	PV:   1614.28	POS:0	NEG:4296	Loss:  0.043159
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1437/4299	#Buy:3387	#Sell:912	#Hold:0	#Stocks:  0.180000	PV:   1150.84	POS:1	NEG:4294	Loss:  0.040770
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1138/4299	#Buy:3073	#Sell:1223	#Hold:3	#Stocks:  0.149000	PV:    953.10	POS:0	NEG:4295	Loss:  0.048217
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:973/4299	#Buy:3375	#Sell:924	#Hold:0	#Stocks:  0.001000	PV:   1604.94	POS:0	NEG:4296	Loss:  0.038991
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:713/4299	#Buy:3324	#Sell:975	#Hold:0	#Stocks:  0.292000	PV:   1868.30	POS:0	NEG:4296	Loss:  0.041868
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:464/4299	#Buy:3218	#Sell:1081	#Hold:0	#Stocks:  0.419000	PV:   2681.14	POS:1	NEG:4296	Loss:  0.043572
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:236/4299	#Buy:2853	#Sell:1434	#Hold:12	#Stocks:  0.390000	PV:   2492.60	POS:0	NEG:4297	Loss:  0.046662
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2919	#Sell:1380	#Hold:0	#Stocks:  0.310000	PV:   3128.00	POS:1	NEG:4296	Loss:  0.049685
+Max PV: 3128.0000788813827, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.44
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2178/4299	#Buy:2426	#Sell:1873	#Hold:0	#Stocks:  0.100000	PV:   1794.23	POS:0	NEG:4297	Loss:  0.060686
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1884/4299	#Buy:2436	#Sell:1863	#Hold:0	#Stocks:  0.006000	PV:   1228.97	POS:0	NEG:4296	Loss:  0.058870
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1683/4299	#Buy:2164	#Sell:2135	#Hold:0	#Stocks:  0.001000	PV:   1135.05	POS:0	NEG:4296	Loss:  0.060122
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1411/4299	#Buy:2092	#Sell:2200	#Hold:7	#Stocks:  0.001000	PV:   1455.68	POS:0	NEG:4296	Loss:  0.060018
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1250/4299	#Buy:3014	#Sell:1285	#Hold:0	#Stocks:  0.184000	PV:   1179.24	POS:0	NEG:4296	Loss:  0.050584
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:945/4299	#Buy:3246	#Sell:1050	#Hold:3	#Stocks:  0.214000	PV:   1377.92	POS:0	NEG:4296	Loss:  0.044553
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:728/4299	#Buy:3523	#Sell:776	#Hold:0	#Stocks:  0.367000	PV:   2351.24	POS:0	NEG:4297	Loss:  0.036169
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:476/4299	#Buy:3734	#Sell:565	#Hold:0	#Stocks:  0.312000	PV:   2001.02	POS:0	NEG:4297	Loss:  0.027677
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:222/4299	#Buy:3188	#Sell:1111	#Hold:0	#Stocks:  0.365000	PV:   2333.37	POS:0	NEG:4297	Loss:  0.044637
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3953	#Sell:346	#Hold:0	#Stocks:  0.440000	PV:   2812.38	POS:1	NEG:4296	Loss:  0.017462
+Max PV: 2812.3832857744555, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.45
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2208/4299	#Buy:2032	#Sell:2266	#Hold:1	#Stocks:  0.094000	PV:   1074.53	POS:0	NEG:4296	Loss:  0.061549
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1908/4299	#Buy:2202	#Sell:2097	#Hold:0	#Stocks:  0.062000	PV:   1391.14	POS:0	NEG:4296	Loss:  0.060896
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1690/4299	#Buy:2324	#Sell:1975	#Hold:0	#Stocks:  0.352000	PV:   2646.97	POS:0	NEG:4297	Loss:  0.059157
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1411/4299	#Buy:3005	#Sell:1294	#Hold:0	#Stocks:  0.143000	PV:   2078.49	POS:0	NEG:4297	Loss:  0.051937
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1279/4299	#Buy:2945	#Sell:1354	#Hold:0	#Stocks:  0.006000	PV:   2169.22	POS:0	NEG:4297	Loss:  0.049148
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:992/4299	#Buy:2224	#Sell:2075	#Hold:0	#Stocks:  0.091000	PV:   2112.30	POS:0	NEG:4297	Loss:  0.058491
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:730/4299	#Buy:2139	#Sell:2159	#Hold:1	#Stocks:  0.177000	PV:   2152.56	POS:0	NEG:4297	Loss:  0.058174
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:494/4299	#Buy:1456	#Sell:2843	#Hold:0	#Stocks:  0.168000	PV:   2709.13	POS:1	NEG:4296	Loss:  0.052527
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:242/4299	#Buy:1598	#Sell:2700	#Hold:1	#Stocks:  0.008000	PV:   2798.32	POS:0	NEG:4297	Loss:  0.056020
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:1568	#Sell:2731	#Hold:0	#Stocks:  0.226000	PV:   3675.06	POS:0	NEG:4298	Loss:  0.053998
+Max PV: 3675.0594284964563, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.46
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2132/4299	#Buy:2507	#Sell:1792	#Hold:0	#Stocks:  0.099000	PV:   1349.59	POS:0	NEG:4296	Loss:  0.060055
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1879/4299	#Buy:2332	#Sell:1966	#Hold:1	#Stocks:  0.005000	PV:   2228.21	POS:0	NEG:4297	Loss:  0.059839
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1659/4299	#Buy:1650	#Sell:2649	#Hold:0	#Stocks:  0.251000	PV:   1801.92	POS:0	NEG:4297	Loss:  0.057850
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1446/4299	#Buy:1648	#Sell:2651	#Hold:0	#Stocks:  0.169000	PV:   1954.62	POS:0	NEG:4297	Loss:  0.057946
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1211/4299	#Buy:1728	#Sell:2571	#Hold:0	#Stocks:  0.050000	PV:   2712.82	POS:0	NEG:4297	Loss:  0.059054
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:956/4299	#Buy:1432	#Sell:2865	#Hold:2	#Stocks:  0.144000	PV:   3509.07	POS:0	NEG:4298	Loss:  0.053200
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:693/4299	#Buy:1075	#Sell:3224	#Hold:0	#Stocks:  0.374000	PV:   3634.19	POS:0	NEG:4298	Loss:  0.045486
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:499/4299	#Buy:1078	#Sell:3221	#Hold:0	#Stocks:  0.723000	PV:   5026.89	POS:0	NEG:4298	Loss:  0.045289
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:274/4299	#Buy:1149	#Sell:3150	#Hold:0	#Stocks:  0.001000	PV:   5103.07	POS:0	NEG:4298	Loss:  0.046213
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:950	#Sell:3349	#Hold:0	#Stocks:  0.003000	PV:   3251.35	POS:0	NEG:4298	Loss:  0.039067
+Max PV: 5103.070083872413, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.47
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2151/4299	#Buy:2671	#Sell:1626	#Hold:2	#Stocks:  0.262000	PV:   1698.33	POS:0	NEG:4297	Loss:  0.058146
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1939/4299	#Buy:2544	#Sell:1752	#Hold:3	#Stocks:  0.226000	PV:   1447.02	POS:0	NEG:4296	Loss:  0.058831
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1661/4299	#Buy:2804	#Sell:1491	#Hold:4	#Stocks:  0.211000	PV:   1349.57	POS:0	NEG:4296	Loss:  0.055383
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1414/4299	#Buy:2657	#Sell:1640	#Hold:2	#Stocks:  0.327000	PV:   2094.05	POS:0	NEG:4297	Loss:  0.055564
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1214/4299	#Buy:2552	#Sell:1747	#Hold:0	#Stocks:  0.396000	PV:   2535.37	POS:0	NEG:4297	Loss:  0.058606
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:979/4299	#Buy:1782	#Sell:2517	#Hold:0	#Stocks:  0.552000	PV:   3536.41	POS:0	NEG:4298	Loss:  0.057887
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:668/4299	#Buy:1836	#Sell:2462	#Hold:1	#Stocks:  0.515000	PV:   3293.78	POS:0	NEG:4298	Loss:  0.060101
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:460/4299	#Buy:1610	#Sell:2687	#Hold:2	#Stocks:  0.585000	PV:   4291.85	POS:0	NEG:4298	Loss:  0.054867
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:231/4299	#Buy:1548	#Sell:2750	#Hold:1	#Stocks:  0.736000	PV:   5099.83	POS:0	NEG:4298	Loss:  0.053925
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:1322	#Sell:2971	#Hold:6	#Stocks:  0.796000	PV:   5086.64	POS:0	NEG:4298	Loss:  0.052021
+Max PV: 5099.825650779271, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.48
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2157/4299	#Buy:1199	#Sell:2921	#Hold:179	#Stocks:  0.001000	PV:   2047.95	POS:0	NEG:4297	Loss:  0.050962
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1961/4299	#Buy:1257	#Sell:2940	#Hold:102	#Stocks:  0.132000	PV:   2009.99	POS:0	NEG:4297	Loss:  0.051276
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1693/4299	#Buy:1756	#Sell:2541	#Hold:2	#Stocks:  0.000000	PV:   1074.97	POS:0	NEG:4296	Loss:  0.056447
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1407/4299	#Buy:1399	#Sell:2899	#Hold:1	#Stocks:  0.000000	PV:   2112.01	POS:0	NEG:4297	Loss:  0.051715
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1190/4299	#Buy:1036	#Sell:3263	#Hold:0	#Stocks:  0.143000	PV:   2225.41	POS:0	NEG:4297	Loss:  0.044929
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:944/4299	#Buy:1327	#Sell:2951	#Hold:21	#Stocks:  0.000000	PV:   2752.24	POS:0	NEG:4298	Loss:  0.051996
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:719/4299	#Buy:1607	#Sell:2692	#Hold:0	#Stocks:  0.000000	PV:   2409.09	POS:0	NEG:4297	Loss:  0.056052
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:456/4299	#Buy:765	#Sell:3532	#Hold:2	#Stocks:  0.001000	PV:   5699.50	POS:0	NEG:4299	Loss:  0.036243
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:239/4299	#Buy:665	#Sell:3592	#Hold:42	#Stocks:  0.000000	PV:   6182.27	POS:0	NEG:4299	Loss:  0.032164
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:616	#Sell:3641	#Hold:42	#Stocks:  0.000000	PV:   5874.55	POS:0	NEG:4299	Loss:  0.029986
+Max PV: 6182.269774640871, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.49
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2121/4299	#Buy:1924	#Sell:2374	#Hold:1	#Stocks:  0.149000	PV:   2263.80	POS:0	NEG:4297	Loss:  0.061340
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1908/4299	#Buy:1738	#Sell:2560	#Hold:1	#Stocks:  0.312000	PV:   1997.39	POS:0	NEG:4297	Loss:  0.059330
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1572/4299	#Buy:2535	#Sell:1764	#Hold:0	#Stocks:  0.088000	PV:   1155.17	POS:0	NEG:4296	Loss:  0.059353
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1460/4299	#Buy:2741	#Sell:1558	#Hold:0	#Stocks:  0.000000	PV:   1110.35	POS:0	NEG:4296	Loss:  0.055314
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1188/4299	#Buy:2627	#Sell:1666	#Hold:6	#Stocks:  0.137000	PV:    875.75	POS:0	NEG:4296	Loss:  0.055684
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:966/4299	#Buy:2977	#Sell:1322	#Hold:0	#Stocks:  0.007000	PV:   1881.68	POS:0	NEG:4297	Loss:  0.048449
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:719/4299	#Buy:1569	#Sell:2704	#Hold:26	#Stocks:  0.001000	PV:   1808.45	POS:0	NEG:4297	Loss:  0.054308
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:461/4299	#Buy:2525	#Sell:1773	#Hold:1	#Stocks:  0.001000	PV:   2143.83	POS:0	NEG:4297	Loss:  0.056471
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:242/4299	#Buy:2837	#Sell:1462	#Hold:0	#Stocks:  0.292000	PV:   3616.66	POS:1	NEG:4296	Loss:  0.050610
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2668	#Sell:1629	#Hold:2	#Stocks:  0.001000	PV:   2793.15	POS:0	NEG:4298	Loss:  0.054134
+Max PV: 3616.66177453441, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.5
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2166/4299	#Buy:1274	#Sell:2993	#Hold:32	#Stocks:  0.094000	PV:   2715.49	POS:0	NEG:4298	Loss:  0.051329
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1919/4299	#Buy:1291	#Sell:2866	#Hold:142	#Stocks:  0.115000	PV:   1450.05	POS:0	NEG:4297	Loss:  0.050830
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1646/4299	#Buy:969	#Sell:3227	#Hold:103	#Stocks:  0.025000	PV:   2453.16	POS:0	NEG:4297	Loss:  0.043517
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1421/4299	#Buy:1066	#Sell:3044	#Hold:189	#Stocks:  0.001000	PV:   3682.28	POS:0	NEG:4298	Loss:  0.041963
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1166/4299	#Buy:792	#Sell:3469	#Hold:38	#Stocks:  0.001000	PV:   5530.85	POS:0	NEG:4299	Loss:  0.037004
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:909/4299	#Buy:693	#Sell:3252	#Hold:354	#Stocks:  0.001000	PV:   3258.52	POS:0	NEG:4298	Loss:  0.033180
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:724/4299	#Buy:820	#Sell:3104	#Hold:375	#Stocks:  0.000000	PV:   2800.82	POS:0	NEG:4298	Loss:  0.037690
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:490/4299	#Buy:1154	#Sell:2868	#Hold:277	#Stocks:  0.355000	PV:   3722.47	POS:0	NEG:4298	Loss:  0.038768
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:245/4299	#Buy:2930	#Sell:1153	#Hold:216	#Stocks:  0.134000	PV:    857.46	POS:0	NEG:4296	Loss:  0.043363
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:4117	#Sell:145	#Hold:37	#Stocks:  0.550000	PV:   3519.14	POS:1	NEG:4296	Loss:  0.009760
+Max PV: 5530.8546768117985, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.51
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2156/4299	#Buy:1785	#Sell:2513	#Hold:1	#Stocks:  0.307000	PV:   2921.23	POS:0	NEG:4298	Loss:  0.060979
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1886/4299	#Buy:2035	#Sell:2264	#Hold:0	#Stocks:  0.212000	PV:   2307.50	POS:0	NEG:4297	Loss:  0.060976
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1713/4299	#Buy:2048	#Sell:2250	#Hold:1	#Stocks:  0.093000	PV:   2067.34	POS:0	NEG:4297	Loss:  0.060692
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1420/4299	#Buy:1919	#Sell:2379	#Hold:1	#Stocks:  0.333000	PV:   2488.11	POS:0	NEG:4298	Loss:  0.061132
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1205/4299	#Buy:2016	#Sell:2282	#Hold:1	#Stocks:  0.352000	PV:   2327.96	POS:0	NEG:4297	Loss:  0.060056
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:977/4299	#Buy:1959	#Sell:2336	#Hold:4	#Stocks:  0.242000	PV:   2897.82	POS:0	NEG:4298	Loss:  0.059727
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:671/4299	#Buy:2146	#Sell:2148	#Hold:5	#Stocks:  0.237000	PV:   2136.27	POS:0	NEG:4297	Loss:  0.059701
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:485/4299	#Buy:2205	#Sell:2089	#Hold:5	#Stocks:  0.279000	PV:   2091.60	POS:0	NEG:4297	Loss:  0.061098
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:232/4299	#Buy:2869	#Sell:1425	#Hold:5	#Stocks:  0.284000	PV:   2135.59	POS:0	NEG:4297	Loss:  0.054955
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2952	#Sell:1345	#Hold:2	#Stocks:  0.494000	PV:   3256.90	POS:0	NEG:4298	Loss:  0.052576
+Max PV: 3256.9032982679432, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.52
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2153/4299	#Buy:2391	#Sell:1908	#Hold:0	#Stocks:  0.066000	PV:    925.70	POS:0	NEG:4296	Loss:  0.058557
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1856/4299	#Buy:2014	#Sell:2274	#Hold:11	#Stocks:  0.180000	PV:   1689.86	POS:0	NEG:4297	Loss:  0.060633
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1635/4299	#Buy:1491	#Sell:2807	#Hold:1	#Stocks:  0.026000	PV:   1239.20	POS:0	NEG:4297	Loss:  0.049378
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1446/4299	#Buy:739	#Sell:3457	#Hold:103	#Stocks:  0.372000	PV:   4884.69	POS:0	NEG:4299	Loss:  0.035671
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1186/4299	#Buy:652	#Sell:3191	#Hold:456	#Stocks:  0.000000	PV:   3893.82	POS:0	NEG:4298	Loss:  0.032287
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:1035/4299	#Buy:634	#Sell:3441	#Hold:224	#Stocks:  0.006000	PV:   3483.58	POS:0	NEG:4298	Loss:  0.031375
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:687/4299	#Buy:520	#Sell:3400	#Hold:379	#Stocks:  0.001000	PV:   4711.79	POS:0	NEG:4298	Loss:  0.026363
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:451/4299	#Buy:769	#Sell:3526	#Hold:4	#Stocks:  0.001000	PV:   5250.81	POS:0	NEG:4299	Loss:  0.035520
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:237/4299	#Buy:907	#Sell:1946	#Hold:1446	#Stocks:  0.000000	PV:   3620.21	POS:0	NEG:4298	Loss:  0.034462
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:876	#Sell:1315	#Hold:2108	#Stocks:  0.001000	PV:  12099.35	POS:0	NEG:4299	Loss:  0.029492
+Max PV: 12099.346254350843, 	 # Win: 1
+LR: 0.1, DF: 0, DRT: 0.53
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2168/4299	#Buy:2386	#Sell:1898	#Hold:15	#Stocks:  0.167000	PV:   1070.96	POS:0	NEG:4297	Loss:  0.058637
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1915/4299	#Buy:2701	#Sell:1596	#Hold:2	#Stocks:  0.110000	PV:   1068.57	POS:0	NEG:4297	Loss:  0.054782
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1692/4299	#Buy:2370	#Sell:1911	#Hold:18	#Stocks:  0.163000	PV:   1047.00	POS:0	NEG:4297	Loss:  0.056912
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1435/4299	#Buy:2169	#Sell:2124	#Hold:6	#Stocks:  0.001000	PV:   1394.60	POS:0	NEG:4297	Loss:  0.055718
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1177/4299	#Buy:2311	#Sell:1932	#Hold:56	#Stocks:  0.358000	PV:   2289.01	POS:0	NEG:4298	Loss:  0.050135
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:957/4299	#Buy:3192	#Sell:1103	#Hold:4	#Stocks:  0.282000	PV:   1805.72	POS:0	NEG:4297	Loss:  0.046207
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:661/4299	#Buy:3855	#Sell:428	#Hold:16	#Stocks:  0.538000	PV:   3440.94	POS:0	NEG:4298	Loss:  0.022864
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:454/4299	#Buy:4014	#Sell:283	#Hold:2	#Stocks:  0.381000	PV:   2438.25	POS:0	NEG:4298	Loss:  0.015353
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:234/4299	#Buy:4049	#Sell:247	#Hold:3	#Stocks:  0.623000	PV:   3982.25	POS:0	NEG:4298	Loss:  0.013470
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:4230	#Sell:59	#Hold:10	#Stocks:  0.713000	PV:   4556.55	POS:1	NEG:4297	Loss:  0.003981
+Max PV: 4556.552582824486, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.54
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2144/4299	#Buy:1499	#Sell:2799	#Hold:1	#Stocks:  0.110000	PV:   1860.79	POS:0	NEG:4297	Loss:  0.056815
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1941/4299	#Buy:1318	#Sell:2981	#Hold:0	#Stocks:  0.242000	PV:   2186.18	POS:0	NEG:4298	Loss:  0.052599
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1670/4299	#Buy:1276	#Sell:3020	#Hold:3	#Stocks:  0.213000	PV:   2552.90	POS:0	NEG:4298	Loss:  0.051892
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1481/4299	#Buy:1275	#Sell:3019	#Hold:5	#Stocks:  0.040000	PV:   3142.08	POS:0	NEG:4298	Loss:  0.052050
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1206/4299	#Buy:1294	#Sell:3005	#Hold:0	#Stocks:  0.040000	PV:   2695.89	POS:0	NEG:4298	Loss:  0.051929
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:988/4299	#Buy:1320	#Sell:2971	#Hold:8	#Stocks:  0.001000	PV:   1949.30	POS:0	NEG:4297	Loss:  0.051938
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:710/4299	#Buy:1058	#Sell:3241	#Hold:0	#Stocks:  0.001000	PV:   2665.71	POS:0	NEG:4298	Loss:  0.044383
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:481/4299	#Buy:1036	#Sell:3259	#Hold:4	#Stocks:  0.001000	PV:   2638.01	POS:0	NEG:4298	Loss:  0.044418
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:237/4299	#Buy:775	#Sell:3518	#Hold:6	#Stocks:  0.001000	PV:   5520.86	POS:0	NEG:4299	Loss:  0.035893
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:770	#Sell:3525	#Hold:4	#Stocks:  0.000000	PV:   5511.14	POS:0	NEG:4299	Loss:  0.035588
+Max PV: 5520.8602148888895, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.55
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2161/4299	#Buy:2652	#Sell:1643	#Hold:4	#Stocks:  0.099000	PV:   1353.60	POS:0	NEG:4297	Loss:  0.058674
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1925/4299	#Buy:2341	#Sell:1958	#Hold:0	#Stocks:  0.000000	PV:   1222.92	POS:0	NEG:4297	Loss:  0.052444
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1692/4299	#Buy:1391	#Sell:2841	#Hold:67	#Stocks:  0.001000	PV:   2996.74	POS:0	NEG:4298	Loss:  0.051786
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1502/4299	#Buy:1634	#Sell:2617	#Hold:48	#Stocks:  0.018000	PV:   2530.79	POS:0	NEG:4298	Loss:  0.055005
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1218/4299	#Buy:1365	#Sell:2879	#Hold:55	#Stocks:  0.003000	PV:   2693.32	POS:0	NEG:4298	Loss:  0.050615
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:916/4299	#Buy:2106	#Sell:2189	#Hold:4	#Stocks:  0.992000	PV:   6339.10	POS:0	NEG:4299	Loss:  0.056653
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:690/4299	#Buy:1773	#Sell:2514	#Hold:12	#Stocks:  0.000000	PV:   2107.32	POS:0	NEG:4298	Loss:  0.051162
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:493/4299	#Buy:1895	#Sell:2392	#Hold:12	#Stocks:  0.001000	PV:   8021.17	POS:0	NEG:4299	Loss:  0.052163
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:225/4299	#Buy:1880	#Sell:2418	#Hold:1	#Stocks:  0.001000	PV:   5060.68	POS:0	NEG:4299	Loss:  0.053161
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2234	#Sell:2024	#Hold:41	#Stocks:  0.638000	PV:   4083.04	POS:0	NEG:4298	Loss:  0.052578
+Max PV: 8021.165114518765, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.56
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2149/4299	#Buy:1252	#Sell:3039	#Hold:8	#Stocks:  0.157000	PV:   2309.47	POS:0	NEG:4298	Loss:  0.052235
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1939/4299	#Buy:1190	#Sell:3101	#Hold:8	#Stocks:  0.001000	PV:   3047.72	POS:0	NEG:4298	Loss:  0.049931
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1618/4299	#Buy:1277	#Sell:2977	#Hold:45	#Stocks:  0.346000	PV:   2216.35	POS:0	NEG:4298	Loss:  0.051788
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1409/4299	#Buy:1486	#Sell:2766	#Hold:47	#Stocks:  0.481000	PV:   3075.29	POS:0	NEG:4298	Loss:  0.052615
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1190/4299	#Buy:1828	#Sell:2471	#Hold:0	#Stocks:  0.326000	PV:   2087.03	POS:0	NEG:4298	Loss:  0.058414
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:929/4299	#Buy:1743	#Sell:2548	#Hold:8	#Stocks:  0.337000	PV:   2158.04	POS:0	NEG:4298	Loss:  0.056623
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:705/4299	#Buy:1808	#Sell:2488	#Hold:3	#Stocks:  0.001000	PV:   1881.11	POS:0	NEG:4297	Loss:  0.055860
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:489/4299	#Buy:1882	#Sell:2403	#Hold:14	#Stocks:  0.329000	PV:   2108.02	POS:0	NEG:4298	Loss:  0.053261
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:257/4299	#Buy:2224	#Sell:2075	#Hold:0	#Stocks:  0.006000	PV:   2076.30	POS:0	NEG:4298	Loss:  0.060785
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2428	#Sell:1871	#Hold:0	#Stocks:  0.264000	PV:   1690.41	POS:0	NEG:4297	Loss:  0.059015
+Max PV: 3075.291848457314, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.57
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2142/4299	#Buy:2713	#Sell:1585	#Hold:1	#Stocks:  0.448000	PV:   2881.34	POS:0	NEG:4298	Loss:  0.056735
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1916/4299	#Buy:1919	#Sell:2380	#Hold:0	#Stocks:  0.250000	PV:   2623.09	POS:0	NEG:4298	Loss:  0.059119
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1640/4299	#Buy:1696	#Sell:2603	#Hold:0	#Stocks:  0.244000	PV:   1561.77	POS:0	NEG:4297	Loss:  0.058046
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1456/4299	#Buy:1941	#Sell:2358	#Hold:0	#Stocks:  0.361000	PV:   2311.68	POS:0	NEG:4298	Loss:  0.059539
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1226/4299	#Buy:2178	#Sell:2121	#Hold:0	#Stocks:  0.372000	PV:   2825.94	POS:0	NEG:4298	Loss:  0.060266
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:943/4299	#Buy:2273	#Sell:2026	#Hold:0	#Stocks:  0.372000	PV:   2380.87	POS:0	NEG:4298	Loss:  0.060756
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:761/4299	#Buy:2209	#Sell:2090	#Hold:0	#Stocks:  0.312000	PV:   1996.75	POS:0	NEG:4297	Loss:  0.056878
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:484/4299	#Buy:3420	#Sell:879	#Hold:0	#Stocks:  0.472000	PV:   3019.09	POS:0	NEG:4298	Loss:  0.039651
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:256/4299	#Buy:3617	#Sell:682	#Hold:0	#Stocks:  0.603000	PV:   3858.70	POS:0	NEG:4298	Loss:  0.032170
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3662	#Sell:637	#Hold:0	#Stocks:  0.661000	PV:   4228.09	POS:0	NEG:4298	Loss:  0.028314
+Max PV: 4228.091736473473, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.58
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2192/4299	#Buy:1784	#Sell:2495	#Hold:20	#Stocks:  0.122000	PV:   1394.52	POS:0	NEG:4297	Loss:  0.058381
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1966/4299	#Buy:1060	#Sell:3047	#Hold:192	#Stocks:  0.000000	PV:   2118.06	POS:0	NEG:4298	Loss:  0.046613
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1651/4299	#Buy:854	#Sell:3218	#Hold:227	#Stocks:  0.657000	PV:   4203.76	POS:0	NEG:4298	Loss:  0.039831
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1418/4299	#Buy:768	#Sell:3403	#Hold:128	#Stocks:  0.001000	PV:   4021.04	POS:0	NEG:4298	Loss:  0.037006
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1181/4299	#Buy:630	#Sell:3502	#Hold:167	#Stocks:  0.000000	PV:   4347.00	POS:0	NEG:4299	Loss:  0.031338
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:973/4299	#Buy:521	#Sell:2665	#Hold:1113	#Stocks:  0.000000	PV:   3128.13	POS:0	NEG:4298	Loss:  0.026763
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:704/4299	#Buy:429	#Sell:3095	#Hold:775	#Stocks:  0.000000	PV:   4518.42	POS:0	NEG:4299	Loss:  0.022452
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:489/4299	#Buy:280	#Sell:3920	#Hold:99	#Stocks:  0.000000	PV:   6717.84	POS:0	NEG:4299	Loss:  0.015187
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:253/4299	#Buy:196	#Sell:1015	#Hold:3088	#Stocks:  0.000000	PV:   6692.46	POS:0	NEG:4299	Loss:  0.010773
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:58	#Sell:1915	#Hold:2326	#Stocks:  0.000000	PV:   9631.00	POS:0	NEG:4299	Loss:  0.003211
+Max PV: 9630.995687959481, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.59
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2178/4299	#Buy:3141	#Sell:1157	#Hold:1	#Stocks:  0.001000	PV:   1063.60	POS:0	NEG:4297	Loss:  0.049980
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1974/4299	#Buy:3038	#Sell:1261	#Hold:0	#Stocks:  0.224000	PV:   1434.78	POS:0	NEG:4297	Loss:  0.051038
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1635/4299	#Buy:3096	#Sell:1202	#Hold:1	#Stocks:  0.343000	PV:   2197.83	POS:0	NEG:4298	Loss:  0.047924
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1432/4299	#Buy:3507	#Sell:792	#Hold:0	#Stocks:  0.259000	PV:   1658.65	POS:0	NEG:4297	Loss:  0.037738
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1158/4299	#Buy:3666	#Sell:632	#Hold:1	#Stocks:  0.085000	PV:   1694.01	POS:0	NEG:4297	Loss:  0.031477
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:959/4299	#Buy:3785	#Sell:514	#Hold:0	#Stocks:  0.312000	PV:   1996.70	POS:0	NEG:4298	Loss:  0.026328
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:770/4299	#Buy:3802	#Sell:496	#Hold:1	#Stocks:  0.462000	PV:   2956.17	POS:0	NEG:4298	Loss:  0.025529
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:483/4299	#Buy:3963	#Sell:336	#Hold:0	#Stocks:  0.530000	PV:   3387.02	POS:1	NEG:4297	Loss:  0.017997
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:248/4299	#Buy:4014	#Sell:285	#Hold:0	#Stocks:  0.590000	PV:   3771.23	POS:0	NEG:4298	Loss:  0.014930
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:4119	#Sell:180	#Hold:0	#Stocks:  0.760000	PV:   4858.69	POS:0	NEG:4299	Loss:  0.009598
+Max PV: 4858.689090517959, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.6
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2189/4299	#Buy:2559	#Sell:1738	#Hold:2	#Stocks:  0.092000	PV:   1184.30	POS:0	NEG:4297	Loss:  0.060075
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1908/4299	#Buy:2668	#Sell:1631	#Hold:0	#Stocks:  0.215000	PV:   1877.96	POS:0	NEG:4298	Loss:  0.057785
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1696/4299	#Buy:2731	#Sell:1568	#Hold:0	#Stocks:  0.332000	PV:   2150.30	POS:0	NEG:4298	Loss:  0.057381
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1416/4299	#Buy:2695	#Sell:1601	#Hold:3	#Stocks:  0.415000	PV:   2670.26	POS:0	NEG:4298	Loss:  0.057439
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1206/4299	#Buy:2698	#Sell:1601	#Hold:0	#Stocks:  0.159000	PV:   2634.33	POS:0	NEG:4298	Loss:  0.057229
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:944/4299	#Buy:2705	#Sell:1588	#Hold:6	#Stocks:  0.384000	PV:   3241.70	POS:0	NEG:4298	Loss:  0.057062
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:788/4299	#Buy:2959	#Sell:1340	#Hold:0	#Stocks:  0.336000	PV:   2420.38	POS:0	NEG:4298	Loss:  0.052358
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:436/4299	#Buy:2703	#Sell:1593	#Hold:3	#Stocks:  0.503000	PV:   3229.39	POS:0	NEG:4298	Loss:  0.056009
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:238/4299	#Buy:2923	#Sell:1376	#Hold:0	#Stocks:  0.235000	PV:   5600.58	POS:0	NEG:4299	Loss:  0.053053
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3349	#Sell:950	#Hold:0	#Stocks:  0.517000	PV:   4349.71	POS:0	NEG:4299	Loss:  0.041191
+Max PV: 5600.584350936457, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.61
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2105/4299	#Buy:2572	#Sell:1727	#Hold:0	#Stocks:  0.148000	PV:   1199.61	POS:0	NEG:4297	Loss:  0.059429
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1949/4299	#Buy:2192	#Sell:2106	#Hold:1	#Stocks:  0.246000	PV:   1574.64	POS:0	NEG:4297	Loss:  0.058831
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1680/4299	#Buy:2569	#Sell:1730	#Hold:0	#Stocks:  0.001000	PV:   1320.49	POS:0	NEG:4297	Loss:  0.053318
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1444/4299	#Buy:842	#Sell:3453	#Hold:4	#Stocks:  0.001000	PV:   2633.84	POS:0	NEG:4298	Loss:  0.039414
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1166/4299	#Buy:752	#Sell:3533	#Hold:14	#Stocks:  0.432000	PV:   3385.05	POS:0	NEG:4298	Loss:  0.035167
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:916/4299	#Buy:570	#Sell:3455	#Hold:274	#Stocks:  0.209000	PV:   3424.95	POS:0	NEG:4298	Loss:  0.028674
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:694/4299	#Buy:501	#Sell:3743	#Hold:55	#Stocks:  0.001000	PV:   6102.30	POS:0	NEG:4299	Loss:  0.025575
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:494/4299	#Buy:377	#Sell:3897	#Hold:25	#Stocks:  0.000000	PV:   4431.30	POS:0	NEG:4299	Loss:  0.019761
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:237/4299	#Buy:249	#Sell:4032	#Hold:18	#Stocks:  0.001000	PV:   8680.99	POS:0	NEG:4299	Loss:  0.013293
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:194	#Sell:3863	#Hold:242	#Stocks:  0.001000	PV:   8006.09	POS:0	NEG:4299	Loss:  0.010039
+Max PV: 8680.990982789432, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.62
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2226/4299	#Buy:2634	#Sell:1658	#Hold:7	#Stocks:  0.227000	PV:   1450.90	POS:0	NEG:4297	Loss:  0.057925
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1899/4299	#Buy:3022	#Sell:1274	#Hold:3	#Stocks:  0.021000	PV:   1331.46	POS:0	NEG:4297	Loss:  0.050542
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1674/4299	#Buy:2699	#Sell:1599	#Hold:1	#Stocks:  0.131000	PV:    840.60	POS:0	NEG:4297	Loss:  0.053119
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1451/4299	#Buy:3407	#Sell:892	#Hold:0	#Stocks:  0.221000	PV:   1418.17	POS:0	NEG:4297	Loss:  0.041040
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1177/4299	#Buy:3613	#Sell:686	#Hold:0	#Stocks:  0.203000	PV:   1298.19	POS:0	NEG:4297	Loss:  0.033415
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:996/4299	#Buy:3346	#Sell:953	#Hold:0	#Stocks:  0.238000	PV:   1523.64	POS:0	NEG:4298	Loss:  0.040948
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:721/4299	#Buy:2870	#Sell:1385	#Hold:44	#Stocks:  0.356000	PV:   2279.53	POS:0	NEG:4298	Loss:  0.048905
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:467/4299	#Buy:3777	#Sell:503	#Hold:19	#Stocks:  0.424000	PV:   2709.81	POS:1	NEG:4297	Loss:  0.025347
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:246/4299	#Buy:3958	#Sell:340	#Hold:1	#Stocks:  0.536000	PV:   3431.41	POS:0	NEG:4298	Loss:  0.017787
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:4183	#Sell:79	#Hold:37	#Stocks:  0.726000	PV:   4641.32	POS:0	NEG:4299	Loss:  0.006268
+Max PV: 4641.316982792468, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.63
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2127/4299	#Buy:2081	#Sell:2215	#Hold:3	#Stocks:  0.210000	PV:   1477.31	POS:0	NEG:4298	Loss:  0.062637
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1924/4299	#Buy:2137	#Sell:2160	#Hold:2	#Stocks:  0.122000	PV:   1900.92	POS:0	NEG:4298	Loss:  0.061840
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1743/4299	#Buy:2157	#Sell:2142	#Hold:0	#Stocks:  0.341000	PV:   2196.13	POS:0	NEG:4298	Loss:  0.062102
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1423/4299	#Buy:2104	#Sell:2191	#Hold:4	#Stocks:  0.209000	PV:   3034.39	POS:0	NEG:4298	Loss:  0.061835
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1218/4299	#Buy:1956	#Sell:2335	#Hold:8	#Stocks:  0.165000	PV:   2530.52	POS:0	NEG:4298	Loss:  0.061354
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:965/4299	#Buy:2189	#Sell:2107	#Hold:3	#Stocks:  0.040000	PV:   2313.72	POS:0	NEG:4298	Loss:  0.062077
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:760/4299	#Buy:2168	#Sell:2130	#Hold:1	#Stocks:  0.138000	PV:   2158.71	POS:0	NEG:4298	Loss:  0.062028
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:474/4299	#Buy:2139	#Sell:2156	#Hold:4	#Stocks:  0.008000	PV:   2223.93	POS:0	NEG:4298	Loss:  0.062447
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:241/4299	#Buy:2141	#Sell:2158	#Hold:0	#Stocks:  0.233000	PV:   2382.62	POS:0	NEG:4298	Loss:  0.062500
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2048	#Sell:2250	#Hold:1	#Stocks:  0.217000	PV:   2201.45	POS:0	NEG:4298	Loss:  0.062301
+Max PV: 3034.3928437368577, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.64
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2211/4299	#Buy:1443	#Sell:2838	#Hold:18	#Stocks:  0.000000	PV:   1864.41	POS:0	NEG:4298	Loss:  0.055744
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1878/4299	#Buy:1177	#Sell:3095	#Hold:27	#Stocks:  0.000000	PV:   3444.54	POS:0	NEG:4298	Loss:  0.049505
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1649/4299	#Buy:1102	#Sell:3192	#Hold:5	#Stocks:  0.000000	PV:   4015.02	POS:0	NEG:4299	Loss:  0.047428
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1418/4299	#Buy:1039	#Sell:3259	#Hold:1	#Stocks:  0.283000	PV:   3159.53	POS:0	NEG:4298	Loss:  0.045475
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1191/4299	#Buy:894	#Sell:3381	#Hold:24	#Stocks:  0.000000	PV:   3705.72	POS:0	NEG:4298	Loss:  0.040963
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:888/4299	#Buy:762	#Sell:3536	#Hold:1	#Stocks:  0.001000	PV:   4452.00	POS:0	NEG:4299	Loss:  0.036017
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:734/4299	#Buy:749	#Sell:3536	#Hold:14	#Stocks:  0.001000	PV:   3600.15	POS:0	NEG:4299	Loss:  0.035325
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:452/4299	#Buy:707	#Sell:3566	#Hold:26	#Stocks:  0.000000	PV:   6890.18	POS:0	NEG:4299	Loss:  0.032800
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:253/4299	#Buy:740	#Sell:3558	#Hold:1	#Stocks:  0.905000	PV:   5789.33	POS:0	NEG:4299	Loss:  0.033161
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:296	#Sell:3977	#Hold:26	#Stocks:  0.380000	PV:   6389.62	POS:0	NEG:4299	Loss:  0.015581
+Max PV: 6890.183006482386, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.65
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2119/4299	#Buy:2059	#Sell:2239	#Hold:1	#Stocks:  0.002000	PV:   1734.81	POS:0	NEG:4298	Loss:  0.061635
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1870/4299	#Buy:1932	#Sell:2366	#Hold:1	#Stocks:  0.303000	PV:   1939.00	POS:0	NEG:4298	Loss:  0.060890
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1625/4299	#Buy:1824	#Sell:2469	#Hold:6	#Stocks:  0.001000	PV:   2207.07	POS:0	NEG:4298	Loss:  0.058670
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1441/4299	#Buy:1951	#Sell:2348	#Hold:0	#Stocks:  0.001000	PV:   2566.36	POS:0	NEG:4298	Loss:  0.060462
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1161/4299	#Buy:1719	#Sell:2574	#Hold:6	#Stocks:  0.000000	PV:   1955.65	POS:0	NEG:4298	Loss:  0.056511
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:980/4299	#Buy:1782	#Sell:2502	#Hold:15	#Stocks:  0.449000	PV:   2869.17	POS:0	NEG:4298	Loss:  0.053684
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:722/4299	#Buy:2447	#Sell:1848	#Hold:4	#Stocks:  0.000000	PV:   2585.04	POS:0	NEG:4298	Loss:  0.055752
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:447/4299	#Buy:2398	#Sell:1895	#Hold:6	#Stocks:  0.174000	PV:   1975.72	POS:0	NEG:4298	Loss:  0.059438
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:220/4299	#Buy:2354	#Sell:1941	#Hold:4	#Stocks:  0.641000	PV:   4201.69	POS:0	NEG:4299	Loss:  0.061040
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:2324	#Sell:1971	#Hold:4	#Stocks:  0.644000	PV:   4116.01	POS:0	NEG:4299	Loss:  0.060861
+Max PV: 4201.693812521364, 	 # Win: 0
+LR: 0.1, DF: 0, DRT: 0.66
+[Epoch 01/10]	Epsilon:0.5000	#Expl.:2191/4299	#Buy:3077	#Sell:1222	#Hold:0	#Stocks:  0.236000	PV:   1513.09	POS:0	NEG:4298	Loss:  0.051451
+[Epoch 02/10]	Epsilon:0.4444	#Expl.:1919/4299	#Buy:3234	#Sell:1062	#Hold:3	#Stocks:  0.178000	PV:   1444.19	POS:0	NEG:4298	Loss:  0.046694
+[Epoch 03/10]	Epsilon:0.3889	#Expl.:1642/4299	#Buy:3316	#Sell:980	#Hold:3	#Stocks:  0.227000	PV:   1457.82	POS:0	NEG:4298	Loss:  0.044022
+[Epoch 04/10]	Epsilon:0.3333	#Expl.:1435/4299	#Buy:3417	#Sell:882	#Hold:0	#Stocks:  0.281000	PV:   1801.41	POS:0	NEG:4298	Loss:  0.039940
+[Epoch 05/10]	Epsilon:0.2778	#Expl.:1183/4299	#Buy:3552	#Sell:746	#Hold:1	#Stocks:  0.307000	PV:   1967.76	POS:0	NEG:4298	Loss:  0.035804
+[Epoch 06/10]	Epsilon:0.2222	#Expl.:950/4299	#Buy:3583	#Sell:715	#Hold:1	#Stocks:  0.339000	PV:   2172.13	POS:0	NEG:4298	Loss:  0.034104
+[Epoch 07/10]	Epsilon:0.1667	#Expl.:742/4299	#Buy:3716	#Sell:582	#Hold:1	#Stocks:  0.425000	PV:   2721.34	POS:0	NEG:4298	Loss:  0.028581
+[Epoch 08/10]	Epsilon:0.1111	#Expl.:443/4299	#Buy:3656	#Sell:643	#Hold:0	#Stocks:  0.468000	PV:   4342.75	POS:0	NEG:4299	Loss:  0.030673
+[Epoch 09/10]	Epsilon:0.0556	#Expl.:249/4299	#Buy:3828	#Sell:471	#Hold:0	#Stocks:  0.621000	PV:   3993.81	POS:0	NEG:4299	Loss:  0.023159
+[Epoch 10/10]	Epsilon:0.0000	#Expl.:0/4299	#Buy:3908	#Sell:387	#Hold:4	#Stocks:  0.676000	PV:   4333.61	POS:0	NEG:4299	Loss:  0.019606
+Max PV: 4342.753945607935, 	 # Win: 0

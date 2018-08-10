@@ -5,6 +5,7 @@ import datetime
 import numpy as np
 
 def load_chart_data(filename):
+    #filename에 BTCUSDT와 같은 코인 이름을 넣어서 사용
     df=pd.read_csv('{0}_1h.csv'.format(filename))
     df=df.set_index('o_t')
     df=df[['o_p','h_p','l_p','c_p','v']]
@@ -16,6 +17,7 @@ def load_chart_data(filename):
     file_list = os.listdir(path_dir)
     cut=len(df)
     for files in file_list:
+        #다른 코인들의 가격 추가
         if files.find(check) is not -1 and files[len(check)] != check and files.find(filename) is -1:
             df1=pd.read_csv('binance/{0}'.format(files))
             df1.set_index('o_t')
@@ -88,6 +90,3 @@ def build_training_data(prep_data):
             training_data['volume_ma%d' % window]
     training_data.index=training_data['o_t']
     return training_data
-
-
-# chart_data = pd.read_csv(fpath, encoding='CP949', thousands=',', engine='python')
