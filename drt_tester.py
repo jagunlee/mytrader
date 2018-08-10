@@ -18,8 +18,12 @@ from policy_network import PolicyNetwork
 import math
 import matplotlib.pyplot as plt
 
+'''
+기존의 main 함수에 backtesting을 합쳐서 drt를 변경해주며 돌려서 데이터를 저장해주는 코드
+'''
 if __name__ == '__main__':
     stock_code = 'BTCUSDT'
+    #drt, 매수 횟수, 매도 횟수, confusion matrix의 accuracy/precision/recall과 최종 backtesting 포트폴리오 가치를 저장
     drts=[]
     buy=[]
     sell=[]
@@ -102,7 +106,7 @@ if __name__ == '__main__':
 
             def __init__(self):
                 stock_code='BTCUSDT'
-                global timestr
+                global timestr #global 함수로 불러와 바로 사용
                 model_ver=timestr
                 self.dataclose = self.datas[0].close
                 log_dir = os.path.join(settings.BASE_DIR, 'logs/%s' % stock_code)
@@ -268,6 +272,7 @@ if __name__ == '__main__':
         my_dict = {"drt": drts, "buy":buy, "sell": sell, "acc":acc,"pre":pre,"rec":rec,"pv":pv}
         datas=pd.DataFrame(my_dict)
         datas.to_csv('checkdata.csv', index='False')
+        #매번 drt를 바꿀때마다 csv파일로 저장
     plt.plot(drts,buy,label="buy")
     plt.plot(drts,sell,label="sell")
     plt.plot(drts,acc,label="acc")
@@ -276,3 +281,4 @@ if __name__ == '__main__':
     plt.plot(drts,pv,label="pv")
     plt.legend()
     plt.savefig('checkdata.png')
+    #최종적으로 png파일로 저장
