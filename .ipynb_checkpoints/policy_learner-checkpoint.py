@@ -92,7 +92,7 @@ class PolicyLearner:
                 epsilon = start_epsilon * (1. - float(epoch) / (num_epoches - 1))
             else:
                 epsilon = 0
-
+            
             while True:
                 
                 next_sample = self._build_sample()
